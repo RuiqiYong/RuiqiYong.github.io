@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BEng in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2024(expected)
-* BEng in Mechatronics and Robotic Systems, University of Liverpool, 2024(expected)
+* B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024(expected)
+* B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024(expected)
 
 Honours＆Awards
 ======
