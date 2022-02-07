@@ -16,8 +16,9 @@ Education
 
 Honours＆Awards
 ======
-* The 2𝑛𝑑 Prize of 2021 [RoboMaster](https://www.robomaster.com/en-US) University Championship in the 20𝑠𝑡 National University Robot Competition South China Regional,2021 
-* The 3𝑟𝑑 Prize of 2021 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 20𝑠𝑡 National University Robot Competition National Regional,2021 
+The image is from the official website of DJI [RoboMaster](https://www.robomaster.com/en-US) for competition cultural promotion (I am the first one on the left).
+* The 2𝑛𝑑 Prize of 2021 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 20𝑠𝑡 National University Robot Competition South China Regional,2021 
+* The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20𝑠𝑡 National University Robot Competition National Regional,2021 
 * The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robotics Project Vision Robot Recognition Competition (Undergraduate) Project Competition,2021
 * The 2𝑛𝑑 Prize of 2021 [Jiangsu Intercollegiate League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) 1V1 Confrontation in the 20𝑠𝑡 National University Robot Competition Infantry Robot Matchups,2021
 * The 3𝑟𝑑 Prize of 2021 Jiangsu Intercollegiate League 3V3 Confrontation in the 20𝑠𝑡 National University Robot Competition Sentry Robot Strength Award,2021  
