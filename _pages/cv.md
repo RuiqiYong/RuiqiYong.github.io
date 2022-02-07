@@ -33,17 +33,17 @@ Research experience
 * 10.2021-Current: Research Assistant 
   * Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Arrange robotic action sets and display processes. 2) Design and build simple humanoid robots using 3D printing, Arduino, steering gear, etc. 3) Assist in the development of robots based on industrial backgrounds.
-  * Supervisor: Associate Professor Min Chen＆[Assistant Professor Quan Zhang](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/quan-zhang)
+  * Supervisor: [Associate Professor Min Chen](https://www.xjtlu.edu.cn/zh/departments/academic-departments/mechatronics-and-robotics/staff/min-chen)＆[Assistant Professor Quan Zhang](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/quan-zhang)
 
-* Summer 2021: Summer Undergraduate Reasearch Fellowships Project Volunteer
+* Summer 2021:[Summer Undergraduate Reasearch Fellowships](https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction)Project Volunteer
   * Xi'an Jiaotong-Liverpool University
   * Duties included: 1) Learn and understand the history of exoskeletal robots and design thinking way. 2) Learn how to use simulation software ANSYS (workbench) in mechanical structure field. 3) Completed the mechanical part and typesetting of the biped robot technical report and participated in a national robot competition.
-  * Supervisor: Associate Professor Min Chen
+  * Supervisor: [Associate Professor Min Chen](https://www.xjtlu.edu.cn/zh/departments/academic-departments/mechatronics-and-robotics/staff/min-chen)
 
 * 11.2020-Current: Mechanical Group Member-Sentry developer/ Investment Manager
   * Embedded Artificial Intelligence Hardware Universities-Enterprises Joint Key Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included:1) Developed and design of sentry robot based on some opened source materials from other universities. 2) Improved quick disassembly structure and Single muzzle head. 3) Designed the whole Sentry robot and the chassis drawings of the engineering robot using SoildWorks, AutoCAD and 3D printing. 4) Optimized mechanical structure and selected customized materials.
-  * Supervisor:Associate Professor Chun Zhao
+  * Supervisor:[Associate Professor Chun Zhao](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/chun-zhao)
 
 Skills
 ======
