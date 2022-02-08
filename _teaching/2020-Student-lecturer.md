@@ -2,9 +2,9 @@
 title: "Student lecturer"
 collection: teaching
 type: "Undergraduate optional course"
-permalink: /teaching/2020-Student lecturer
+permalink: /teaching/2020-Student-lecturer
 venue: "XJTLU, Chinese Culture Teaching Centre"
-date: Semester 2, Academic Year 2020-21 & Semester 1, Academic Year 2021-22
+date: 2020-03-25
 location: "Suzhou,Jiangsu Province,China"
 ---
 
