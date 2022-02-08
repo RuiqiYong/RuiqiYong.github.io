@@ -54,7 +54,9 @@ Patents
 
 Internship experiences
 ======
-
+* Summer, 2021: Internship 
+  * Suzhou Non-Fish Cultural Media Company Limited
+  * Duties included: 1) Learn about AR/VR/MR real-scene applications and project planning. 2) Understand the organization and structure of start-up company and business management. 3) Learn about intelligent warehousing and intelligent logistics. 4) Deep exposure to industrial robots and AGVs. 5) Communicate with suppliers and make working memos to provide reasonable purchasing solutions.
 
 Teaching
 ======
@@ -62,7 +64,37 @@ Teaching
 
 Service and leadership
 ======
+* 2021-2022: President & Liaison Minister
+  * XJTLU Sagittarius Astronomy Club
+  * Duties included: 1) Planned and organized astronomical observation activities. 2) Invited lecturers and professors of the Department of Physics to give astronomy lectures. 3) Gave lectures on astronomy to high school students of XJTLU affiliated schools.
 
+* 2021-2022: Vice President
+  * XJTLU Tea Club
+  * Duties included: 1) Discovered and learned about Chinese tea culture. 2) Planned and prepared event proposals on the theme of tea.
+
+* 2021-2022: Liaison Minister
+  * XJTLU G-Master Robot Club
+  * Duties included: 1) Designed and organized activities related to intra-school robot battles. 2) Bridged clubs with schools and companies.
+
+* 2021-2022: Project Leader
+  * XJTLU College student entrepreneurship project-Inkless 
+  * Duties included: 1) Write part of business plan and do road show presentation. 2) Provide technical support and operation of projects with 3D printing.
+
+* 2021-2022: Outstanding Student Cadre
+  * XJTLU
+  * Duties included: 1) Manage and lead a number of student tasks and activities. 2) Outstanding contributions to leadership and volunteerism.
+
+* 2020-2021: League branch secretary, Outstanding Class Cadre
+  * XJTLU
+  * Duties included: 1) Served as the league branch secretary and have excellent performance in class work.
+
+* Winter, 2020: The team leader, Pioneer Award
+  * 2020 I-Link of XJTLU 
+  * Duties included: 1) Led the team to preach in Alma mater and won the second prize.
+
+* Winter, 2020: Excellent model
+  * 2020 Military training of XJTLU
+  * Duties included: 1) Outstanding performance in military training.
 
 Skills
 ======
