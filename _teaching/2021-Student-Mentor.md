@@ -9,4 +9,5 @@ location: "Suzhou,Jiangsu Province,China"
 ---
 
 As a fellow tutor & club instructor, I taught robotics and astronomy and gave students guidance on life planning.
-![Student Mentor](https://user-images.githubusercontent.com/98693538/152960220-204fcd2c-8297-4355-b97c-3a139caf9a4d.jpg)
+The picture is me giving a lecture at venue: "XJTLU-Affiliated school".![Student Mentor](https://user-images.githubusercontent.com/98693538/152961390-421690bc-4a44-4fc7-822b-b9d49ffdbd76.jpg)
+
