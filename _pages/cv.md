@@ -48,9 +48,18 @@ Research experience
 
 Publications
 ======
+* [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/978-3-030-27541-9_56), 2019
+
+* [Research Status and Prospects of Adaptive Robotic Hands(CN)](https://enderhangyuan.github.io/publication/15913), 2019
 
 Patents
 ======
+
+* [Adaptive robotic hand device for force-controlled rapid gripping of pole gripper groups(CN)](https://enderhangyuan.github.io/talks/2019-10-25-patent-3), 2019
+
+* [A Magnetic Drive Linkage Translational Robot Hand Device(CN)](https://enderhangyuan.github.io/talks/2019-10-01-patent-2), 2019
+
+* [Hedgehog-like Magnetic Drive Rod Ball Adaptive Robotic Hand Device(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2019
 
 Internship experiences
 ======
@@ -60,7 +69,11 @@ Internship experiences
 
 Teaching
 ======
+* [Undergraduate optional course student lecturer](https://enderhangyuan.github.io/teaching/2021-Student-lecturer), 2021
 
+* [High school & junior school optional course student mentor](https://enderhangyuan.github.io/teaching/2021-Student-Mentor), 2021
+
+* [Undergraduate optional course student lecturer](https://enderhangyuan.github.io/teaching/2020-Student-lecturer), 2020
 
 Service and leadership
 ======
