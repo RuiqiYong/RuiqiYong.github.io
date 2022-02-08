@@ -1,7 +1,7 @@
 ---
 title: "Student Mentor"
 collection: teaching
-type: "High school optional course"
+type: "High school & junior school optional course"
 permalink: /teaching/2021-Student-Mentor
 venue: "XJTLU-Affiliated School"
 date: 2021-09-01
