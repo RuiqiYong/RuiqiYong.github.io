@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download CV.pdf here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV%20of%20HangYuan.pdf)
 
 Education
 ======
