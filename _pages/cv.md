@@ -30,7 +30,7 @@ Research experience
 * 01.2022-Current: Research Assistant 
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Engaged in the field of microfluidic research, using centrifugal devices to assist biological detection. 2）Design and manufacture centrifuge, prepare sample solution for qualitative and quantitative experiments, improve the sensitivity of biological detection.
-  * Supervisor: [Associate Professor Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song)＆Assistant Professor Quan Zhang
+  * Supervisor: [Assistant Professor Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song)＆Assistant Professor Quan Zhang
 
 * 10.2021-Current: Research Assistant 
   * Xi'an Jiaotong-Liverpool University
