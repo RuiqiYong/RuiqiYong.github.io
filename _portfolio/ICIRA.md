@@ -1,9 +1,9 @@
 ---
-title: "12th International Conference on Intelligent Robotics and Applications (ICIRA) poster show"
+title: "12th International Conference on Intelligent Robotics and Applications (ICIRA) poster show,2019"
 collection: portfolio
 ---
 
-You can find the poster and videos of my project at the conference here.
+You can find the conference poster and demo videos of my project here.
 
 There is the poster that was on display at the conference.![ICIRA 2019会议交流照片](https://user-images.githubusercontent.com/98693538/153436633-ced050ac-fd76-49f0-84a6-b543686f8491.jpg)
 
