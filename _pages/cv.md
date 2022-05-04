@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV.pdf here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV%20of%20HangYuan.pdf)
+[Download CV.pdf here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV%20of%20HangYuan.pdfhttps://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV-Hang.Yuan.pdf)
 
 Education
 ======
@@ -37,7 +37,12 @@ Research experience
   * Duties included: 1）Arrange robotic action sets and display processes. 2) Design and build simple humanoid robots using 3D printing, Arduino, steering gear, etc. 3) Assist in the development of robots based on industrial backgrounds.
   * Supervisor: Associate Professor Min Chen＆[Assistant Professor Quan Zhang](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/quan-zhang)
 
-* Summer 2021:[Summer Undergraduate Reasearch Fellowships](https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction) Project Volunteer
+* Summer 2022:[Summer Undergraduate Reasearch Fellowships](https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction) Project Member
+  * Xi'an Jiaotong-Liverpool University
+  * Duties included: 1) Review on the C.elegans sorting.
+  * Supervisor: Assistant Professor Pengfei Song
+
+* Summer 2021:Summer Undergraduate Reasearch Fellowships Project Volunteer
   * Xi'an Jiaotong-Liverpool University
   * Duties included: 1) Learn and understand the history of exoskeletal robots and design thinking way. 2) Learn how to use simulation software ANSYS (workbench) in mechanical structure field. 3) Completed the mechanical part and typesetting of the biped robot technical report and participated in a national robot competition.
   * Supervisor: [Associate Professor Min Chen](https://www.xjtlu.edu.cn/zh/departments/academic-departments/mechatronics-and-robotics/staff/min-chen)
@@ -94,7 +99,11 @@ Service and leadership
   * XJTLU College student entrepreneurship project-Inkless 
   * Duties included: 1) Write part of business plan and do road show presentation. 2) Provide technical support and operation of projects with 3D printing.
 
-* 2021-2022: Outstanding Student Cadre
+* 2022-2023: Excellent Student Cadre
+  * Jiangsu Province
+  * Duties included: 1) Outstanding learning ability and leadership. 2) One of eight places in the XJTLU school, the only place in the SAT department of XJTLU.
+
+* 2021-2022: Excellent Student Cadre
   * XJTLU
   * Duties included: 1) Manage and lead a number of student tasks and activities. 2) Outstanding contributions to leadership and volunteerism.
 
@@ -114,9 +123,9 @@ Skills
 ======
 * Computer Skills＆Software:
   * SoildWorks, AutoCAD, 3ds Max, Rhino, SketchBook
-  * ANSYS (workbench), MATLAB, LTspice
-  * Adobe Premiere, KeyShot
-  * C language
+  * ANSYS (workbench), MATLAB, LTspice, Dr. Frame2D
+  * Adobe Premiere, KeyShot, Snagit
+  * C language, Arduino
 * Language:
   * Mandarin (Native)
   * English
