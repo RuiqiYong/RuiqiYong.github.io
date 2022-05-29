@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV.pdf here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV%20of%20HangYuan.pdfhttps://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV-Hang.Yuan.pdf)
+[Download CV.pdf here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV-Hang.Yuan.pdf)
 
 Education
 ======
@@ -22,12 +22,13 @@ The image is from the official website of DJI [RoboMaster](https://www.robomaste
 * The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20𝑠𝑡 National University Robot Competition National Regional,2021 
 * The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robotics Project Vision Robot Recognition Competition (Undergraduate) Project Competition,2021
 * The 2𝑛𝑑 Prize of 2021 [Jiangsu Intercollegiate League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) 1V1 Confrontation in the 20𝑠𝑡 National University Robot Competition Infantry Robot Matchups,2021
-* The 3𝑟𝑑 Prize of 2021 Jiangsu Intercollegiate League 3V3 Confrontation in the 20𝑠𝑡 National University Robot Competition Sentry Robot Strength Award,2021  
-* The 𝑁𝑜. 1 in the entrepreneurship of AY2020-2021 spring semester of XJTLU,2021![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
+* The 3𝑟𝑑 Prize of 2021 Jiangsu Intercollegiate League 3V3 Confrontation in the 20𝑠𝑡 National University Robot Competition Sentry Robot Strength Award,2021
+* The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU,2022  
+* The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU,2021![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 
 Research experience
 ======
-* 01.2022-Current: Research Assistant 
+* 01.2022-Current: Research Assistant
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Engaged in the field of microfluidic research, using centrifugal devices to assist biological detection. 2）Design and manufacture centrifuge, prepare sample solution for qualitative and quantitative experiments, improve the sensitivity of biological detection.
   * Supervisor: [Assistant Professor Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song)＆Assistant Professor Quan Zhang
@@ -95,9 +96,17 @@ Service and leadership
   * XJTLU G-Master Robot Club
   * Duties included: 1) Designed and organized activities related to intra-school robot battles. 2) Bridged clubs with schools and companies.
 
+* 2022-2023: Project Leader
+  * XJTLU College student entrepreneurship project-ESGrow 
+  * Duties included: 1) Write part of business plan and do road show presentation. 2) Provide technical support for urban farm intelligent solutions.
+
 * 2021-2022: Project Leader
   * XJTLU College student entrepreneurship project-Inkless 
   * Duties included: 1) Write part of business plan and do road show presentation. 2) Provide technical support and operation of projects with 3D printing.
+
+* 2022-2023:Entrepreneurship Star
+  * XJTLU i-Star selection
+  * Duties included: 1) Outstanding achievement in innovation and entrepreneurship, winning first place in the school competition for two consecutive years. 2) One of ten places in XJTLU.
 
 * 2022-2023: Excellent Student Cadre
   * Jiangsu Province
