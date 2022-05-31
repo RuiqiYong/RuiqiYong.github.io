@@ -120,6 +120,10 @@ Service and leadership
   * XJTLU
   * Duties included: 1) Served as the league branch secretary and have excellent performance in class work.
 
+* 2022-2023: Excellent Class Buddy
+  * XJTLU
+  * Duties included: 1)Working with the school and guiding students in the lower grades
+
 * Winter, 2020: The team leader, Pioneer Award
   * 2020 I-Link of XJTLU 
   * Duties included: 1) Led the team to preach in Alma mater and won the second prize.
