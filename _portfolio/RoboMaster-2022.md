@@ -25,6 +25,6 @@ We have received extensive media coverage and publicity. (Because the publicity 
 
 [XJTLU School of Future Education](https://mp.weixin.qq.com/s/eYsaTl7UOUAZAPMnIuOzgw)
 
-[Team Interviews | Seven Minutes - The Unending Ironclad Ambition of a Hot-Blooded Boy](https://mp.weixin.qq.com/s/yBnPIvK1fBFHy3G0oc-5Nw)
+[Seven Minutes - The Unending Ironclad Ambition of a Hot-Blooded Boy](https://mp.weixin.qq.com/s/yBnPIvK1fBFHy3G0oc-5Nw)
 
 As the team investment manager, under my promotion, we have reached sponsorship cooperation with Suzhou Dynamic Cloud Technology Co., Ltd, [Shenzhen Yuntuchuangzhi Technology Co., Ltd](https://artillery3d.com/pages/about-artillery-38) and [AgileX Robotics (Shenzhen) Co., Ltd.](https://www.agilex.ai/?lang=en-us) The total sponsorship is 60,000 RMB.
