@@ -57,7 +57,7 @@ You can see some videos here.
 
 [XJTLU V.S. Sichuan University 2:0](https://www.bilibili.com/video/BV1Ha411W7kZ?spm_id_from=333.999.list.card_archive.click&vd_source=cdabbb7755d99ccfc45704591795b0f2)
 
-[XJTLU V.S. Shenyang Aerospace University 2:0](https://www.bilibili.com/video/BV1Tr4y1g7Yvspm_id_from=333.999.list.card_archive.click&vd_source=cdabbb7755d99ccfc45704591795b0f2)
+[XJTLU V.S. Shenyang Aerospace University 2:0](https://www.bilibili.com/video/BV1Tr4y1g7Yv?spm_id_from=333.999.list.card_archive.click&vd_source=cdabbb7755d99ccfc45704591795b0f2)
 
 [XJTLU V.S. Taiyuan University of Science and Technology 2:1](https://www.bilibili.com/video/BV16Y4y1J7rX?spm_id_from=333.999.list.card_archive.click)
 ![13](https://user-images.githubusercontent.com/98693538/179417322-8bb7c59c-b2b9-4542-8f12-7cd5ae06fae5.png)
