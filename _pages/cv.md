@@ -18,29 +18,33 @@ Education
 Honours＆Awards
 ======
 The image is from the official website of DJI [RoboMaster](https://www.robomaster.com/en-US) for competition cultural promotion (I am the first one on the left).
-* The 2𝑛𝑑 Prize of 2021 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 20𝑠𝑡 National University Robot Competition South China Regional,2021 
-* The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20𝑠𝑡 National University Robot Competition National Regional,2021 
+* The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition Eastern China Regional,2022
+* The 2𝑛𝑑 Prize of 2022 [RoboMaster University Technical Challenge](https://www.robomaster.com/en-US/robo/rmtc?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" Eastern China Regional,2022
+* The 2𝑛𝑑 Prize of 2021 RoboMaster University Technical Challenge in the 20th National University Robot Competition "Standard Racing and Smart Firing" National Regional,2021
+* The 2𝑛𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition South China Regional,2021 
+* The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition National Regional,2021 
 * The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robotics Project Vision Robot Recognition Competition (Undergraduate) Project Competition,2021
-* The 2𝑛𝑑 Prize of 2021 [Jiangsu Intercollegiate League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) 1V1 Confrontation in the 20𝑠𝑡 National University Robot Competition Infantry Robot Matchups,2021
-* The 3𝑟𝑑 Prize of 2021 Jiangsu Intercollegiate League 3V3 Confrontation in the 20𝑠𝑡 National University Robot Competition Sentry Robot Strength Award,2021
-* The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU,2022](https://cy.ncss.cn/en/)  
+* The 2𝑛𝑑 Prize of 2021 [Jiangsu Intercollegiate League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) 1V1 Confrontation in the 20th National University Robot Competition Infantry Robot Matchups,2021
+* The 3𝑟𝑑 Prize of 2021 Jiangsu Intercollegiate League 3V3 Confrontation in the 20th National University Robot Competition Sentry Robot Strength Award,2021
+* The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division,2022
+* The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU,2022  
 * The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU,2021![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 
 Research experience
 ======
 * 01.2022-Current: Research Assistant
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Engaged in the field of microfluidic research, using centrifugal devices to assist biological detection. 2）Design and manufacture centrifuge, prepare sample solution for qualitative and quantitative experiments, improve the sensitivity of biological detection.
+  * Duties included: 1）Engaged in the field of microfluidic research, using centrifugal devices to assist biological detection. 2）Design and manufacture of machines, test strips, and sample solutions for lateral flow immunoassays (LFIA) to achieve increased biological detection sensitivity.
   * Supervisor: [Assistant Professor Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song)＆Assistant Professor Quan Zhang
 
-* 10.2021-Current: Research Assistant 
+* 10.2021-10.2022: Research Assistant 
   * Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Arrange robotic action sets and display processes. 2) Design and build simple humanoid robots using 3D printing, Arduino, steering gear, etc. 3) Assist in the development of robots based on industrial backgrounds.
   * Supervisor: Associate Professor Min Chen＆[Assistant Professor Quan Zhang](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/quan-zhang)
 
 * Summer 2022:[Summer Undergraduate Reasearch Fellowships](https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction) Project Member
   * Xi'an Jiaotong-Liverpool University
-  * Duties included: 1) Review on the C.elegans sorting.
+  * Duties included: 1) Write a review of the C. elegans sorting using microfluidic devices
   * Supervisor: Assistant Professor Pengfei Song
 
 * Summer 2021:Summer Undergraduate Reasearch Fellowships Project Volunteer
@@ -48,10 +52,10 @@ Research experience
   * Duties included: 1) Learn and understand the history of exoskeletal robots and design thinking way. 2) Learn how to use simulation software ANSYS (workbench) in mechanical structure field. 3) Completed the mechanical part and typesetting of the biped robot technical report and participated in a national robot competition.
   * Supervisor: [Associate Professor Min Chen](https://www.xjtlu.edu.cn/zh/departments/academic-departments/mechatronics-and-robotics/staff/min-chen)
 
-* 11.2020-Current: Mechanical Group Member-Sentry developer/ Investment Manager
+* 11.2020-10.2022: Mechanical Group Member-Sentry developer/ Investment Manager
   * Embedded Artificial Intelligence Hardware Universities-Enterprises Joint Key Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included:1) Developed and design of sentry robot based on some opened source materials from other universities. 2) Improved quick disassembly structure and Single muzzle head. 3) Designed the whole Sentry robot and the chassis drawings of the engineering robot using SoildWorks, AutoCAD and 3D printing. 4) Optimized mechanical structure and selected customized materials.5)Took charge of the team's investment and cooperation activities.
-  * Supervisor:[Associate Professor Chun Zhao](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/chun-zhao)
+  * Duties included:1) Developed and design of sentry robot based on some opened source materials from other universities. 2) Improved quick disassembly structure and Single muzzle head. 3) Designed the whole Sentry robot and the chassis drawings of the engineering robot using SoildWorks, AutoCAD and 3D printing. 4) Optimized mechanical structure and selected customized materials.5)Took charge of the team's investment (Received sponsorship totaling 60,000 RMB in 2022) and cooperation activities.
+  * Supervisor: [Associate Professor Chun Zhao](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/chun-zhao)
 
 Publications
 ======
@@ -120,7 +124,7 @@ Service and leadership
   * XJTLU
   * Duties included: 1) Served as the league branch secretary and have excellent performance in class work.
 
-* 2022-2023: Excellent Class Buddy
+* 2022-2023: Outstanding Class Buddy
   * XJTLU
   * Duties included: 1)Working with the school and guiding students in the lower grades
 
@@ -135,7 +139,7 @@ Service and leadership
 Skills
 ======
 * Computer Skills＆Software:
-  * SoildWorks, AutoCAD, 3ds Max, Rhino, SketchBook
+  * SolidWorks, AutoCAD, 3ds Max, Rhino, SketchBook
   * ANSYS (workbench), MATLAB, LTspice, Dr. Frame2D
   * Adobe Premiere, KeyShot, Snagit
   * C language, Arduino
