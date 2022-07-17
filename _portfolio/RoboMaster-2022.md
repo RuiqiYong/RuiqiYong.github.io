@@ -14,11 +14,17 @@ In the group stage, we defeated Sichuan University and Shenyang University of Ae
 GMaster successfully entered the top 32 of the national competition in the first inland competition. We became the "dark horse" team of 2022 competition.
 
 We have received extensive media coverage and publicity. (Because the publicity is all in Chinese, it is only linked and not translated into English) Some of them are listed as follow.
+
 [China Youth Daily](https://s.cyol.com/articles/2022-06/28/content_DgJgj9Uz.html?gid=gDajO4kX)
+
 [XJTLU RoboMaster: Team GMaster](https://mp.weixin.qq.com/s/MypmxeEs-AqRZAifKk2dAQ)
+
 [XJTLU Student News Center](https://mp.weixin.qq.com/s/QGZ0l5pJekcyZl6x-mgwvQ)
+
 [XJTLU School of Advanced Technology](https://mp.weixin.qq.com/s/SxHsSnxaPZ29d7FPErmyqA)
+
 [XJTLU School of Future Education](https://mp.weixin.qq.com/s/eYsaTl7UOUAZAPMnIuOzgw)
+
 [Team Interviews | Seven Minutes - The Unending Ironclad Ambition of a Hot-Blooded Boy](https://mp.weixin.qq.com/s/yBnPIvK1fBFHy3G0oc-5Nw)
 
 As the team investment manager, under my promotion, we have reached sponsorship cooperation with Suzhou Dynamic Cloud Technology Co., Ltd, [Shenzhen Yuntuchuangzhi Technology Co., Ltd](https://artillery3d.com/pages/about-artillery-38) and [AgileX Robotics (Shenzhen) Co., Ltd.](https://www.agilex.ai/?lang=en-us) The total sponsorship is 60,000 RMB.
