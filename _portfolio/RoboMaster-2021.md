@@ -31,4 +31,14 @@ This is a photo of me and Sentry robot.
 Finally, group photos of our whole team(I'm the third from the left in the first row). A person's strength is limited after all, any great cause needs the cooperation of the team to complete. Thanks to my teammates!![1644498602182](https://user-images.githubusercontent.com/98693538/153566246-8c6e6951-b0f5-4e43-b9e8-d7d2ca0b8cb0.jpg)![1644498602164](https://user-images.githubusercontent.com/98693538/153566212-b01b7cff-62eb-4b07-997b-d3a5bccbdc6c.jpg)
 ![1644498602231](https://user-images.githubusercontent.com/98693538/153566274-2d05a464-5fef-4041-8606-d15640ed8ffd.jpg)
 
+We have received extensive media coverage and publicity. (Because the publicity is all in Chinese, it is only linked and not translated into English) Some of them are listed as follow.
+
+[XJTLU](https://mp.weixin.qq.com/s/ztuHh8rQI0VToxKl_z_dNQ)
+
+[XJTLU School of Advanced Technology](https://mp.weixin.qq.com/s/oSFFzKpYoOgaKGqf0oWCcQ)
+
+[XJTLU Student News Centre](https://mp.weixin.qq.com/s/RSHIM-vDcC3IOcHWZbALcw)
+
+[Suzhou Radio & Television](https://h5.kan0512.com/ksz/tw/#/article/index?id=1973634&style=1)
+
 You can find [our video of the game.](https://www.bilibili.com/video/BV15g411j7SR?p=2)
