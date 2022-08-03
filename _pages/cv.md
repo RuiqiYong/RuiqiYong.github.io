@@ -18,7 +18,8 @@ Education
 Honours＆Awards
 ======
 The image is from the official website of DJI [RoboMaster](https://www.robomaster.com/en-US) for competition cultural promotion (I am the first one on the left).
-* The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition Eastern China Regional,2022
+* The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition National Regional,2022
+* The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition Eastern China Regional,2022
 * The 2𝑛𝑑 Prize of 2022 [RoboMaster University Technical Challenge](https://www.robomaster.com/en-US/robo/rmtc?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" Eastern China Regional,2022
 * The 2𝑛𝑑 Prize of 2021 RoboMaster University Technical Challenge in the 20th National University Robot Competition "Standard Racing and Smart Firing" National Regional,2021
 * The 2𝑛𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition South China Regional,2021 
@@ -77,6 +78,7 @@ Internship experiences
 * Summer, 2021: Internship 
   * Suzhou Non-Fish Cultural Media Company Limited
   * Duties included: 1) Learn about AR/VR/MR real-scene applications and project planning. 2) Understand the organization and structure of start-up company and business management. 3) Learn about intelligent warehousing and intelligent logistics. 4) Deep exposure to industrial robots and AGVs. 5) Communicate with suppliers and make working memos to provide reasonable purchasing solutions.
+  * [XJTLU did an interview with me and my boss](https://mp.weixin.qq.com/s/7AOMWfm8usHHfbpv7ktqxg). Only Chinese version.
 
 Teaching
 ======
