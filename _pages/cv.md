@@ -20,14 +20,20 @@ Honours＆Awards
 The image is from the official website of DJI [RoboMaster](https://www.robomaster.com/en-US) for competition cultural promotion (I am the first one on the left).
 * The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition National Regional,2022
 * The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition Eastern China Regional,2022
+* The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition Sentry Robot Strength Award (NO.1),2022
+* The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition Standard Robot Strength Award,2022
+* The 2nd Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition Engineer Robot Strength Award,2022
+* The 2nd Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition Hero Robot Strength Award,2022
+* The 3rd Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition Aerial Robot Strength Award,2022
+* The 3rd Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition Dart System Strength Award,2022
 * The 2𝑛𝑑 Prize of 2022 [RoboMaster University Technical Challenge](https://www.robomaster.com/en-US/robo/rmtc?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" Eastern China Regional,2022
 * The 2𝑛𝑑 Prize of 2021 RoboMaster University Technical Challenge in the 20th National University Robot Competition "Standard Racing and Smart Firing" National Regional,2021
 * The 2𝑛𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition South China Regional,2021 
 * The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition National Regional,2021 
 * The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robotics Project Vision Robot Recognition Competition (Undergraduate) Project Competition,2021
-* The 2𝑛𝑑 Prize of 2021 [Jiangsu Intercollegiate League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) 1V1 Confrontation in the 20th National University Robot Competition Infantry Robot Matchups,2021
+* The 2𝑛𝑑 Prize of 2021 [Jiangsu Intercollegiate League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) 1V1 Confrontation in the 20th National University Robot Competition Standard Robot Matchups,2021
 * The 3𝑟𝑑 Prize of 2021 Jiangsu Intercollegiate League 3V3 Confrontation in the 20th National University Robot Competition Sentry Robot Strength Award,2021
-* The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division,2022
+* The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division (6/77),2022
 * The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU,2022  
 * The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU,2021![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 
