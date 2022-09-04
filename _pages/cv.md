@@ -113,6 +113,7 @@ Service and leadership
 * 2022-2023: Project Leader
   * XJTLU College student entrepreneurship project-ESGrow 
   * Duties included: 1) Write part of business plan and do road show presentation. 2) Provide technical support for urban farm intelligent solutions.
+  * [News 1](https://mp.weixin.qq.com/s/RX97FYR33gy_QSlslR1eaQ) [News 2](https://mp.weixin.qq.com/s/u3E8eXHMsEi523YWLLsj2Q)
 
 * 2021-2022: Project Leader
   * XJTLU College student entrepreneurship project-Inkless 
