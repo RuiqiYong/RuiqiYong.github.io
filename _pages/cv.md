@@ -64,7 +64,7 @@ Research experience
 
 Publications
 ======
-* [The impact of short videos on student performance in an online-flipped college engineering course](https://enderhangyuan.github.io/publication/20220922)
+* [The impact of short videos on student performance in an online-flipped college engineering course](https://enderhangyuan.github.io/publication/20220922), 2022
 
 * [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/978-3-030-27541-9_56), 2019
 
