@@ -110,9 +110,12 @@ Service and leadership
   * XJTLU G-Master Robot Club
   * Duties included: 1) Designed and organized activities related to intra-school robot battles. 2) Bridged clubs with schools and companies.
 
+* 2022-2023: Corporation & Executive Director
+  * Yuanhe Technology (Changzhou) Co., Ltd.
+  
 * 2022-2023: Project Leader
   * XJTLU College student entrepreneurship project-ESGrow 
-  * Duties included: 1) Write part of business plan and do road show presentation. 2) Provide technical support for urban farm intelligent solutions.
+  * Duties included: 1) Write part of business plan and do road show presentation. 2) Provide technical support for urban farm intelligent solutions. 3）Founded Yuanhe Technology (Changzhou) Co., Ltd. with the support of Changzhou Wujin district government
   * [News 1](https://mp.weixin.qq.com/s/RX97FYR33gy_QSlslR1eaQ). Only Chinese version.
   * [News 2](https://mp.weixin.qq.com/s/u3E8eXHMsEi523YWLLsj2Q). Only Chinese version.
   * [News 3](https://mp.weixin.qq.com/s/DBinK5NBRqR5H2MtGO22Ew). Only Chinese version.
