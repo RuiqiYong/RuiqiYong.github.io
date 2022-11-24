@@ -155,7 +155,7 @@ Skills
 * Computer Skills＆Software:
   * SolidWorks, AutoCAD, 3ds Max, Rhino, SketchBook
   * ANSYS (workbench), MATLAB, LTspice, Dr. Frame2D
-  * Adobe Premiere, KeyShot, Snagit
+  * Adobe Premiere, Adobe Illustrator, KeyShot, Snagit, Origin
   * C language, Arduino
 * Language:
   * Mandarin (Native)
