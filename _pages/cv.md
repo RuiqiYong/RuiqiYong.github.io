@@ -43,11 +43,13 @@ Research experience
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Engaged in the field of microfluidic research, using centrifugal devices to assist biological detection. 2）Design and manufacture of machines, test strips, and sample solutions for lateral flow immunoassays (LFIA) to achieve increased biological detection sensitivity.
   * Supervisor: [Assistant Professor Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song)＆Assistant Professor Quan Zhang
+![Research 2](https://user-images.githubusercontent.com/98693538/203786462-740de5d6-629b-4294-94b4-a10447d13a01.jpg)
 
 * 10.2021-10.2022: Research Assistant 
   * Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Arrange robotic action sets and display processes. 2) Design and build simple humanoid robots using 3D printing, Arduino, steering gear, etc. 3) Assist in the development of robots based on industrial backgrounds.
   * Supervisor: Associate Professor Min Chen＆[Assistant Professor Quan Zhang](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/quan-zhang)
+![Research 1](https://user-images.githubusercontent.com/98693538/203786515-6d50629e-4dc9-41f7-837e-697a85ce1a7c.jpg)
 
 * Summer 2022:[Summer Undergraduate Reasearch Fellowships](https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction) Project Member
   * Xi'an Jiaotong-Liverpool University
