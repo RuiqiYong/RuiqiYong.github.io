@@ -18,23 +18,24 @@ Education
 Honours＆Awards
 ======
 The image is from the official website of DJI [RoboMaster](https://www.robomaster.com/en-US) for competition cultural promotion (I am the first one on the left).
-* The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition National Regional,2022
-* The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition Eastern China Regional,2022
-* The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition Standard Robot Strength Award,2022
-* The 2𝑛𝑑 Prize of 2022 [RoboMaster University Technical Challenge](https://www.robomaster.com/en-US/robo/rmtc?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" Eastern China Regional,2022
-* The 3𝑟𝑑 Prize of 2022 RoboMaster University Technical Challenge in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" National Regional,2022
-* The 2𝑛𝑑 Prize of 2021 RoboMaster University Technical Challenge in the 20th National University Robot Competition "Standard Racing and Smart Firing" National Regional,2021
-* The 2𝑛𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition South China Regional,2021 
-* The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition National Regional,2021 
-* The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robotics Project Vision Robot Recognition Competition (Undergraduate) Project Competition,2021
-* The 2𝑛𝑑 Prize of 2021 [Jiangsu Intercollegiate League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) 1V1 Confrontation in the 20th National University Robot Competition Standard Robot Matchups,2021
-* The 3𝑟𝑑 Prize of 2021 Jiangsu Intercollegiate League 3V3 Confrontation in the 20th National University Robot Competition Sentry Robot Strength Award,2021
+* The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition _National Regional_, 2022
+* The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition _Eastern China Regional_, 2022
+* The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition _Standard Robot Strength Award_, 2022
+* The 2𝑛𝑑 Prize of 2022 [RoboMaster University Technical Challenge](https://www.robomaster.com/en-US/robo/rmtc?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" _Eastern China Regional_, 2022
+* The 3𝑟𝑑 Prize of 2022 RoboMaster University Technical Challenge in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" _National Regional_, 2022
+* The 2𝑛𝑑 Prize of 2021 RoboMaster University Technical Challenge in the 20th National University Robot Competition "Standard Racing and Smart Firing" _National Regional_, 2021
+* The 2𝑛𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition _South China Regional_, 2021 
+* The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition _National Regional_, 2021 
+* The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robotics Project Vision Robot Recognition Competition (Undergraduate) Project Competition, 2021
+* The 3𝑟𝑑 Prize of 2022 [RoboMaster University League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) (Jiangsu Province) 3V3 Confrontation in the 21𝑠𝑡 National University Robot Competition, 2022
+* The 2𝑛𝑑 Prize of 2021 RoboMaster University League (Jiangsu Province) Standard Robot Confrontation in the 20th National University Robot Competition, 2021
+* The 3𝑟𝑑 Prize of 2021 RoboMaster University League (Jiangsu Province) 3V3 Confrontation in the 20th National University Robot Competition _Sentry Robot Strength Award_, 2021
 * The 3𝑟𝑑 Prize of the [8th China International "Internet+" Student Innovation and Entrepreneurship Competition](http://www.moe.gov.cn/srcsite/A08/s5672/202204/t20220412_616047.html), 2022
 * The 3𝑟𝑑 Prize of the 12th ["Challenge Cup"](https://baike.baidu.com/item/%E2%80%9C%E6%8C%91%E6%88%98%E6%9D%AF%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E8%AE%A1%E5%88%92%E7%AB%9E%E8%B5%9B/9837613?fromModule=lemma_inlink) Jiangsu Student Entrepreneurial Plan Competition, 2022
-* The 3𝑟𝑑 Prize of 2022 [Changzhou "International Smart" Innovation and Entrepreneurship Competition Robotics and Intelligent Hardware Challenge](http://www.changzhou.gov.cn/ns_news/795165231605032), 2022
-* The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division (6/77),2022
-* The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU,2022  
-* The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU,2021![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
+* The 3𝑟𝑑 Prize of 2022 [Changzhou "International Intelligent Manufacturing" Innovation and Entrepreneurship Competition Robotics and Intelligent Hardware Challenge](http://www.changzhou.gov.cn/ns_news/795165231605032), 2022
+* The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division _(6/77)_, 2022
+* The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU, 2022  
+* The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU, 2021![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 
 Research experience
 ======
