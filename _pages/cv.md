@@ -31,9 +31,11 @@ The image is from the official website of DJI [RoboMaster](https://www.robomaste
 * The 2𝑛𝑑 Prize of 2021 RoboMaster University League (Jiangsu Province) Standard Robot Confrontation in the 20th National University Robot Competition, 2021
 * The 3𝑟𝑑 Prize of 2021 RoboMaster University League (Jiangsu Province) 3V3 Confrontation in the 20th National University Robot Competition _Sentry Robot Strength Award_, 2021
 * The 3𝑟𝑑 Prize of the [8th China International "Internet+" Student Innovation and Entrepreneurship Competition](http://www.moe.gov.cn/srcsite/A08/s5672/202204/t20220412_616047.html), 2022
-* The 3𝑟𝑑 Prize of the 12th ["Challenge Cup"](https://baike.baidu.com/item/%E2%80%9C%E6%8C%91%E6%88%98%E6%9D%AF%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E8%AE%A1%E5%88%92%E7%AB%9E%E8%B5%9B/9837613?fromModule=lemma_inlink) Jiangsu Student Entrepreneurial Plan Competition, 2022
+* The 3𝑟𝑑 Prize of the 8th "Internet+" Student Innovation and Entrepreneurship Competition (Jiangsu Province), 2022
+* The 3𝑟𝑑 Prize of the 12th ["Challenge Cup"](https://baike.baidu.com/item/%E2%80%9C%E6%8C%91%E6%88%98%E6%9D%AF%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E8%AE%A1%E5%88%92%E7%AB%9E%E8%B5%9B/9837613?fromModule=lemma_inlink) Student Entrepreneurial Plan Competition (Jiangsu Province), 2022
 * The 3𝑟𝑑 Prize of 2022 [Changzhou "International Intelligent Manufacturing" Innovation and Entrepreneurship Competition Robotics and Intelligent Hardware Challenge](http://www.changzhou.gov.cn/ns_news/795165231605032), 2022
 * The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division _(6/77)_, 2022
+* The Best Popularity Award of Yangtze River Delta (YRD) IP Innovation and Application Competition, 2022
 * The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU, 2022  
 * The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU, 2021![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 
@@ -121,6 +123,8 @@ Service and leadership
   * [News 1](https://mp.weixin.qq.com/s/RX97FYR33gy_QSlslR1eaQ). Only Chinese version.
   * [News 2](https://mp.weixin.qq.com/s/u3E8eXHMsEi523YWLLsj2Q). Only Chinese version.
   * [News 3](https://mp.weixin.qq.com/s/DBinK5NBRqR5H2MtGO22Ew). Only Chinese version.
+  * [News 4](https://mp.weixin.qq.com/s/X0v3JUFJvkEExykPx77_2Q). Only Chinese version.
+  * [News 5](https://mp.weixin.qq.com/s/7HA1scGuCrFj6gf_dNzk9Q). Only Chinese version.
 
 * 2021-2022: Project Leader
   * XJTLU College student entrepreneurship project-Inkless 
