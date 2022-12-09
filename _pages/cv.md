@@ -35,7 +35,7 @@ The photograph is from the official website of DJI [RoboMaster](https://www.robo
 * The 3𝑟𝑑 Prize of the 12th ["Challenge Cup"](https://baike.baidu.com/item/%E2%80%9C%E6%8C%91%E6%88%98%E6%9D%AF%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E8%AE%A1%E5%88%92%E7%AB%9E%E8%B5%9B/9837613?fromModule=lemma_inlink) Student Entrepreneurial Plan Competition (Jiangsu Province), 2022
 * The 3𝑟𝑑 Prize of 2022 [Changzhou "International Intelligent Manufacturing" Innovation and Entrepreneurship Competition Robotics and Intelligent Hardware Challenge](http://www.changzhou.gov.cn/ns_news/795165231605032), 2022
 * The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division _(6/77)_, 2022
-* The Best Popularity Award of [Yangtze River Delta (YRD) IP Innovation and Application Competition](http://www.xjtlu-ttc.com/ip-competition), 2022
+* The Excellence Award and the Best Popularity Award of [Yangtze River Delta (YRD) Intellectual Property Innovation and Application Competition](http://www.xjtlu-ttc.com/ip-competition), 2022
 * The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU, 2022  
 * The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU, 2021![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 
