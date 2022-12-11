@@ -127,6 +127,7 @@ Service and leadership
   * [News 5](https://mp.weixin.qq.com/s/7HA1scGuCrFj6gf_dNzk9Q). Only Chinese version.
   * [News 6](https://mp.weixin.qq.com/s/wDgXB_AaAAY9lPPccgwJ_w). Only Chinese version.
   * [News 7](https://mp.weixin.qq.com/s/wDgXB_AaAAY9lPPccgwJ_w). Only Chinese version.
+  * [News 8](https://mp.weixin.qq.com/s/ULFPHT0yGx4K7hItsAFSlg). Only Chinese version.
 
 * 2021-2022: Project Leader
   * XJTLU College student entrepreneurship project-Inkless 
