@@ -36,6 +36,7 @@ The photograph is from the official website of DJI [RoboMaster](https://www.robo
 * The 3𝑟𝑑 Prize of 2022 [Changzhou "International Intelligent Manufacturing" Innovation and Entrepreneurship Competition Robotics and Intelligent Hardware Challenge](http://www.changzhou.gov.cn/ns_news/795165231605032), 2022
 * The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division _(6/77)_, 2022
 * The Excellence Award and the Best Popularity Award of [Yangtze River Delta (YRD) Intellectual Property Innovation and Application Competition](http://www.xjtlu-ttc.com/ip-competition), 2022
+* The 1𝑠𝑡 Prize of [XJTLU Global Entrepreneurial Dream-chasers Competition](https://www.sohu.com/a/591644587_121124035), 2022
 * The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU, 2022  
 * The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU, 2021![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 
@@ -104,7 +105,7 @@ Service and leadership
 ======
 * 2021-2022: President & Liaison Minister
   * XJTLU Sagittarius Astronomy Club
-  * Duties included: 1) Planned and organized astronomical observation activities. 2) Invited lecturers and professors of the Department of Physics to give astronomy lectures. 3) Gave lectures on astronomy to high school students of XJTLU affiliated schools.
+  * Duties included: 1) Planned and organized astronomical observation activities. 2) Invited lecturers and professors of the Department of Physics to give astronomy lectures. 3) Gave lectures on astronomy to high school students of XJTLU affiliated schools.4) Lead and obtained "2022 Best Cooperation Club".
 
 * 2021-2022: Vice President
   * XJTLU Tea Club
