@@ -145,7 +145,7 @@ Service and leadership
 
 * 2022-2023: Outstanding Student
   * XJTLU
-  * Duties included:1) Outstanding academic performance (5% of School of Advanced Technology students)
+  * Duties included:1) Outstanding academic performance (5% of School of Advanced Technology students).
 
 * 2021-2022: Excellent Student Cadre
   * XJTLU
