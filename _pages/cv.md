@@ -143,6 +143,10 @@ Service and leadership
   * Jiangsu Province
   * Duties included: 1) Outstanding learning ability and leadership. 2) One of eight places in the XJTLU school, the only place in the SAT department of XJTLU.
 
+* 2022-2023: Outstanding Student
+  * XJTLU
+  * Duties included:1) Outstanding academic performance (5% of School of Advanced Technology students)
+
 * 2021-2022: Excellent Student Cadre
   * XJTLU
   * Duties included: 1) Manage and lead a number of student tasks and activities. 2) Outstanding contributions to leadership and volunteerism.
