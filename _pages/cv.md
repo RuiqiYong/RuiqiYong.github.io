@@ -71,11 +71,15 @@ Research experience
 
 Publications
 ======
+* [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124), 2023
+
+* [Microfluidic Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects](https://enderhangyuan.github.io/publication/20230119), 2023
+
 * [The impact of short videos on student performance in an online-flipped college engineering course](https://enderhangyuan.github.io/publication/20220922), 2022
 
-* [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/978-3-030-27541-9_56), 2019
+* [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811), 2019
 
-* [Research Status and Prospects of Adaptive Robotic Hands(CN)](https://enderhangyuan.github.io/publication/15913), 2019
+* [Research Status and Prospects of Adaptive Robotic Hands(CN)](https://enderhangyuan.github.io/publication/20190410), 2019
 
 Patents
 ======
