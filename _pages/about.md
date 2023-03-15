@@ -16,7 +16,7 @@ I once learned robot hands from [Associate Professor Wenzeng Zhang](https://scho
 
 Research Interest
 =====
-Lateral Flow Assay, _C. elegans_, Nanotechnology, Microsystems(which include microfluidic biosensors and platforms and automation and robotics at microscale), Robot Hands, 3d printing.
+Lateral Flow Assay, _C. elegans_, Nanotechnology, Microsystems(which include microfluidic biosensors and platforms and automation and robotics at microscale), Robotic Hands, 3d printing.
 
 Education Experience
 =====
