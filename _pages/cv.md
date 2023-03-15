@@ -71,6 +71,8 @@ Research experience
 
 Publications
 ======
+* [An ultrasensitive FET biosensor based on vertically aligned MoS2 nanolayers with abundant surface active sites](https://www.sciencedirect.com/science/article/pii/S000326702300257X), 2023
+
 * [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124), 2023
 
 * [Microfluidic Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects](https://enderhangyuan.github.io/publication/20230119), 2023
