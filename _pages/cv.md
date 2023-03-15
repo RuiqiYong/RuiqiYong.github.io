@@ -83,6 +83,8 @@ Publications
 
 * [Research Status and Prospects of Adaptive Robotic Hands(CN)](https://enderhangyuan.github.io/publication/20190410), 2019
 
+Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0000-0002-8079-7413) for more information.
+
 Patents
 ======
 
