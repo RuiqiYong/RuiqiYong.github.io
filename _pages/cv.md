@@ -146,6 +146,7 @@ Service and leadership
 * 2022-2023:Entrepreneurship Star
   * XJTLU i-Star selection
   * Duties included: 1) Outstanding achievement in innovation and entrepreneurship, winning first place in the school competition for two consecutive years. 2) One of ten places in XJTLU.
+  * [News 1](https://mp.weixin.qq.com/s/iyPLAfKzVgRNPapVv8u65g). Bilingual version.
 
 * 2022-2023: Excellent Student Cadre
   * Jiangsu Province
