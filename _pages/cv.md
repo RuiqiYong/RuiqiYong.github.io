@@ -21,6 +21,7 @@ The photograph is from the official website of DJI [RoboMaster](https://www.robo
 * The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition _National Regional_, 2022
 * The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition _Eastern China Regional_, 2022
 * The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition _Standard Robot Strength Award_, 2022
+* The 1𝑠𝑡 Prize of 2022 RoboMaster University League Regional Activity among Hundreds of Universities "Operator Online Simulation League", 2022
 * The 2𝑛𝑑 Prize of 2022 [RoboMaster University Technical Challenge](https://www.robomaster.com/en-US/robo/rmtc?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" _Eastern China Regional_, 2022
 * The 3𝑟𝑑 Prize of 2022 RoboMaster University Technical Challenge in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" _National Regional_, 2022
 * The 2𝑛𝑑 Prize of 2021 RoboMaster University Technical Challenge in the 20th National University Robot Competition "Standard Racing and Smart Firing" _National Regional_, 2021
