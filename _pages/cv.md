@@ -28,7 +28,7 @@ The photograph is from the official website of DJI [RoboMaster](https://www.robo
 * The 2𝑛𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition _South China Regional_, 2021 
 * The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition _National Regional_, 2021 
 * The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robotics Project Vision Robot Recognition Competition (Undergraduate) Project Competition, 2021
-* The 3𝑟𝑑 Prize of 2022 [RoboMaster University League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) (Jiangsu Province) 3V3 Confrontation in the 21𝑠𝑡 National University Robot Competition, 2022
+* The 2𝑛𝑑 Prize of 2022 [RoboMaster University League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) (Online) 3V3 Confrontation in the 21𝑠𝑡 National University Robot Competition, 2022
 * The 2𝑛𝑑 Prize of 2021 RoboMaster University League (Jiangsu Province) Standard Robot Confrontation in the 20th National University Robot Competition, 2021
 * The 3𝑟𝑑 Prize of 2021 RoboMaster University League (Jiangsu Province) 3V3 Confrontation in the 20th National University Robot Competition _Sentry Robot Strength Award_, 2021
 * The 3𝑟𝑑 Prize of the [8th China International "Internet+" Student Innovation and Entrepreneurship Competition](http://www.moe.gov.cn/srcsite/A08/s5672/202204/t20220412_616047.html), 2022
