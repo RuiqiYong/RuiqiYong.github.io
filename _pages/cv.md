@@ -152,6 +152,8 @@ Service and leadership
 * 2022-2023: Excellent Student Cadre
   * Jiangsu Province
   * Duties included: 1) Outstanding learning ability and leadership. 2) One of eight places in the XJTLU school, the only place in the SAT department of XJTLU.
+  * [News 1](https://mp.weixin.qq.com/s/MSUr7w2bkqwey3qHzeJX7g). Bilingual version.
+  * [News 2](https://mp.weixin.qq.com/s/iaejnHQc0mp7r3MV-goqvg). Bilingual version.
 
 * 2022-2023: Outstanding Student
   * XJTLU
