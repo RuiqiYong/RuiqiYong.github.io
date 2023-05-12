@@ -72,6 +72,10 @@ Research experience
 
 Publications
 ======
+* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/202305101.md)
+
+* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer s Disease](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/202305102.md)
+
 * [An ultrasensitive FET biosensor based on vertically aligned MoS2 nanolayers with abundant surface active sites](https://www.sciencedirect.com/science/article/pii/S000326702300257X), 2023
 
 * [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124), 2023
