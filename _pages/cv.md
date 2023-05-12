@@ -72,15 +72,15 @@ Research experience
 
 Publications
 ======
-* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/202305101.md)
+* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement (Research posters abstract-1 page)](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/202305101.md)
 
-* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer s Disease](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/202305102.md)
+* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer s Disease (Research posters abstract-1 page)](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/202305102.md)
 
 * [An ultrasensitive FET biosensor based on vertically aligned MoS2 nanolayers with abundant surface active sites](https://www.sciencedirect.com/science/article/pii/S000326702300257X), 2023
 
 * [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124), 2023
 
-* [Microfluidic Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects](https://enderhangyuan.github.io/publication/20230119), 2023
+* [Microfluidic Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects (Cover paper)](https://enderhangyuan.github.io/publication/20230119), 2023
 
 * [The impact of short videos on student performance in an online-flipped college engineering course](https://enderhangyuan.github.io/publication/20220922), 2022
 
@@ -147,6 +147,9 @@ Service and leadership
   * XJTLU College student entrepreneurship project-Inkless 
   * Duties included: 1) Write part of business plan and do road show presentation. 2) Provide technical support and operation of projects with 3D printing.
   * [News 1](https://mp.weixin.qq.com/s/-jwLz5vCL3mvdBB3d1VHJg). Bilingual version.
+
+* 2023-2024:Entrepreneurship Star
+  * XJTLU i-Star selection
 
 * 2022-2023:Entrepreneurship Star
   * XJTLU i-Star selection
