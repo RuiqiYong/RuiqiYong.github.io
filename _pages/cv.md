@@ -80,7 +80,7 @@ Publications
 
 * [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124), 2023
 
-* [Microfluidic Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects (Cover paper)](https://enderhangyuan.github.io/publication/20230119), 2023
+* [Microfluidic-Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects (Cover paper)](https://enderhangyuan.github.io/publication/20230119), 2023
 
 * [The impact of short videos on student performance in an online-flipped college engineering course](https://enderhangyuan.github.io/publication/20220922), 2022
 
