@@ -72,6 +72,8 @@ Research experience
 
 Publications
 ======
+* [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples (Oral Presentation)](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/20230531.md)
+
 * [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement (Research posters abstract-1 page)](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/202305101.md)
 
 * [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer s Disease (Research posters abstract-1 page)](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/202305102.md)
