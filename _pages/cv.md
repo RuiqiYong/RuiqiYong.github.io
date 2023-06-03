@@ -72,13 +72,13 @@ Research experience
 
 Publications
 ======
-* [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples (Oral Presentation)](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/20230531.md)
+* [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples (Oral Presentation)](https://enderhangyuan.github.io/publication/20230531)
 
-* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement (Research posters abstract-1 page)](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/202305101.md)
+* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement (Research posters abstract-1 page)](https://enderhangyuan.github.io/publication/202305101)
 
-* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer s Disease (Research posters abstract-1 page)](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/_publications/202305102.md)
+* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer s Disease (Research posters abstract-1 page)](https://enderhangyuan.github.io/publication/202305102)
 
-* [An ultrasensitive FET biosensor based on vertically aligned MoS2 nanolayers with abundant surface active sites](https://www.sciencedirect.com/science/article/pii/S000326702300257X), 2023
+* [An ultrasensitive FET biosensor based on vertically aligned MoS2 nanolayers with abundant surface active sites](https://enderhangyuan.github.io/publication/20230303), 2023
 
 * [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124), 2023
 
