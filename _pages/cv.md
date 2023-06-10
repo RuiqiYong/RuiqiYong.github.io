@@ -153,6 +153,7 @@ Service and leadership
 
 * 2023-2024:Entrepreneurship Star
   * XJTLU i-Star selection
+  * [News 1](https://mp.weixin.qq.com/s/BmSW1Vp97E-suBTxmcwHpA). Bilingual version.
 
 * 2022-2023:Entrepreneurship Star
   * XJTLU i-Star selection
