@@ -101,7 +101,7 @@ Research Experience
 * Nanocellulose-Paper-Based Microfluidic Platform (07.2022-Current: Assistant Research Leader)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanocellulose paper (nanopaper), optimizing the pattern parameters and saving time. 2）Developed fundamental microfluidic devices and functional nanopaper-based analytical devices (NanoPADs). 3) Performed colorimetric experiments and tested the droplet generation. 4) Detected untreated glial fibrillary acidic protein (GFAP) in human plasma without pretreatment using SERS on NanoPADs, enabling highly sensitive early screening of Alzheimer's disease.
-  * Supervisor: Professor [Xinyu Liu](https://www.mie.utoronto.ca/faculty_staff/xinyu-liu/) & Assistant Professor Pengfei Song
+  * Supervisor: [Professor Xinyu Liu](https://www.mie.utoronto.ca/faculty_staff/xinyu-liu/) & Assistant Professor Pengfei Song
 
 * Humanoid Robot and Fatigue Analysis (05.2021-10.2021: Research Assistant)
   * [Summer Undergraduate Reasearch Fellowships](https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction), Xi'an Jiaotong-Liverpool University
@@ -122,38 +122,38 @@ Research Experience
 Internship experiences
 ======
 * Summer, 2021: Internship 
-  * Suzhou Non-Fish Cultural Media Company Limited
-  * Duties included: 1) Learn about AR/VR/MR real-scene applications and project planning. 2) Understand the organization and structure of start-up company and business management. 3) Learn about intelligent warehousing and intelligent logistics. 4) Deep exposure to industrial robots and AGVs. 5) Communicate with suppliers and make working memos to provide reasonable purchasing solutions.
+  * Suzhou Non-Fish Culture Communication Co., Ltd. 
+  * Duties included: 1) Assisted in project planning for industrial robots, AGVs, and AR/VR/MR projects. 2) Collaborated with suppliers, and developed work memos and project proposals.
   * [XJTLU did an interview with me and my boss](https://mp.weixin.qq.com/s/7AOMWfm8usHHfbpv7ktqxg). Only Chinese version.
 
-Teaching
+Teaching Activities
 ======
 * [Undergraduate optional course student lecturer](https://enderhangyuan.github.io/teaching/2021-Student-lecturer), 2021
 
-* [High school & junior school optional course student mentor](https://enderhangyuan.github.io/teaching/2021-Student-Mentor), 2021
+* [Middle school & high school optional course student mentor](https://enderhangyuan.github.io/teaching/2021-Student-Mentor), 2021
 
 * [Undergraduate optional course student lecturer](https://enderhangyuan.github.io/teaching/2020-Student-lecturer), 2020
 
-Service and leadership
+Service and Leadership
 ======
 * 2021-2022: President & Liaison Minister
   * XJTLU Sagittarius Astronomy Club
-  * Duties included: 1) Planned and organized astronomical observation activities. 2) Invited lecturers and professors of the Department of Physics to give astronomy lectures. 3) Gave lectures on astronomy to high school students of XJTLU affiliated schools.4) Lead and obtained "2022 Best Cooperation Club".
+  * Duties included: 1) Led and organized successful astronomical observation activities, receiving the “Best Cooperation Club” award. 2) Lectured on astronomy to high school students from XJTLU-affiliated school.
 
 * 2021-2022: Vice President
   * XJTLU Tea Club
-  * Duties included: 1) Discovered and learned about Chinese tea culture. 2) Planned and prepared event proposals on the theme of tea.
+  * Duties included: 1) Led and organized multiple tea ceremony and incense ceremony performances. 2) Lectured on tea culture to middle school students from XJTLU-affiliated school.
 
 * 2021-2022: Liaison Minister
   * XJTLU G-Master Robot Club
-  * Duties included: 1) Designed and organized activities related to intra-school robot battles. 2) Bridged clubs with schools and companies.
+  * Duties included: 1) Lectured on making combat robots to the undergraduate and organized competitions.
 
 * 2022-2023: Corporation & Executive Director
   * Yuanhe Technology (Changzhou) Co., Ltd.
   
 * 2022-2023: Project Leader
-  * XJTLU College student entrepreneurship project-ESGrow 
-  * Duties included: 1) Write part of business plan and do road show presentation. 2) Provide technical support for urban farm intelligent solutions. 3）Founded Yuanhe Technology (Changzhou) Co., Ltd. with the support of Changzhou Wujin district government
+  * XJTLU entrepreneurship project-ESGrow 
+  * Duties included: 1) Established Yuanhe Technology (Changzhou) Co., Ltd. with the support of Changzhou Wujin District Government. 2) Provided smart solutions for urban farming, promoting community energy efficiency based on ESG principles.
   * [News 1](https://mp.weixin.qq.com/s/RX97FYR33gy_QSlslR1eaQ). Only Chinese version.
   * [News 2](https://mp.weixin.qq.com/s/u3E8eXHMsEi523YWLLsj2Q). Only Chinese version.
   * [News 3](https://mp.weixin.qq.com/s/DBinK5NBRqR5H2MtGO22Ew). Only Chinese version.
@@ -164,8 +164,8 @@ Service and leadership
   * [News 8](https://mp.weixin.qq.com/s/ULFPHT0yGx4K7hItsAFSlg). Only Chinese version.
 
 * 2021-2022: Project Leader
-  * XJTLU College student entrepreneurship project-Inkless 
-  * Duties included: 1) Write part of business plan and do road show presentation. 2) Provide technical support and operation of projects with 3D printing.
+  * XJTLU entrepreneurship project-Inkless 
+  * Duties included: 1) Led the 3D printing entrepreneurial project, including business plan writing and roadshow presentations.
   * [News 1](https://mp.weixin.qq.com/s/-jwLz5vCL3mvdBB3d1VHJg). Bilingual version.
 
 * 2023-2024:Entrepreneurship Star
@@ -212,15 +212,9 @@ Service and leadership
 Skills
 ======
 * Computer Skills＆Software:
-  * SolidWorks, AutoCAD, 3ds Max, Rhino, SketchBook
-  * ANSYS (workbench), MATLAB, LTspice, Dr. Frame2D
-  * Adobe Premiere, Adobe Illustrator, KeyShot, Snagit, Origin
-  * C language, Arduino
+  * _Programming_: C, Arduino, MATLAB
+  * _CAD/CAE_: SolidWorks, AutoCAD, ANSYS (workbench), Rhino
+  * _Graphic design_: Adobe Illustrator, Adobe Premiere, Adobe Photoshop, KeyShot, Origin
 * Language:
   * Mandarin (Native)
   * English
-* Hobbies: 
-  * Astronomy (The President of XJTLU Sagittarius Astronomy Club and Luoyang NO.1 Senior High School Astronomy Club)
-  * Robotics (Four designed robotic hand inventions)
-  * Tea culture (Vice President of tea club)
-  * 3D printing (Familiar with FDM and LCD 3D printers and the relevant project won the championship of the school competition)
