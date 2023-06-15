@@ -52,7 +52,7 @@ Granted Patents
 
 * [A Hedgehog-Inspired Magnetic-Driven Self-Adaptive Pin-Array Robot Hand(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2019
 
-Honours＆Awards
+Honours ＆ Awards
 ======
 Three 1𝑠𝑡 prizes, one 2𝑛𝑑 prizes, and three 3𝑟𝑑 prizes in national-level competitions:
 * The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition _National Regional_, 2022
@@ -82,6 +82,12 @@ Three 1𝑠𝑡 prizes in university-level competitions:
 * The 1𝑠𝑡 Prize of [XJTLU Global Entrepreneurial Dream-chasers Competition](https://www.sohu.com/a/591644587_121124035), 2022
 * The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU, 2022  
 * The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU, 2021
+
+Honours:
+* Excellent Student Cadre (University-wide top 0.1%), Jiangsu Province, 2022-2023
+* Outstanding Student (School-wide top 5%), XJTLU, 2021-2022
+* Excellent Student Cadre & Outstanding Class Cadre (University-wide top 1%), XJTLU, 2020-2021                
+* Entrepreneurship Star (University-wide top 1%), XJTLU, 2021-2022 & 2022-2023                          
 ![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 The photograph is from the official website of DJI [RoboMaster](https://www.robomaster.com/en-US) for competition cultural promotion (I am the first one on the left).
 
@@ -119,7 +125,7 @@ Research Experience
   * Duties included: 1）Developed a hedgehog-inspired pin-array robot hand with multiple magnetic pins for adaptive grasping. 2）Developed a self-adaptive robot hand with controllable gripping force and a magnetic-driven robot hand for parallel gripping, enabling quickly grasping objects with diverse shapes.
   * Supervisor: [Associate Professor Wenzeng Zhang](https://www.me.tsinghua.edu.cn/en/info/1090/1272.htm)
 
-Internship experiences
+Internship Experiences
 ======
 * Summer, 2021: Internship 
   * Suzhou Non-Fish Culture Communication Co., Ltd. 
@@ -134,7 +140,7 @@ Teaching Activities
 
 * [Undergraduate optional course student lecturer](https://enderhangyuan.github.io/teaching/2020-Student-lecturer), 2020
 
-Service and Leadership
+Service ＆ Leadership
 ======
 * 2021-2022: President & Liaison Minister
   * XJTLU Sagittarius Astronomy Club
@@ -168,18 +174,19 @@ Service and Leadership
   * Duties included: 1) Led the 3D printing entrepreneurial project, including business plan writing and roadshow presentations.
   * [News 1](https://mp.weixin.qq.com/s/-jwLz5vCL3mvdBB3d1VHJg). Bilingual version.
 
-* 2023-2024:Entrepreneurship Star
+* 2022-2023:Entrepreneurship Star
   * XJTLU i-Star selection
+  * Duties included: 1) Outstanding achievement in innovation and entrepreneurship, winning first place in the school competition for two consecutive years. 2) One of ten places in XJTLU.
   * [News 1](https://mp.weixin.qq.com/s/BmSW1Vp97E-suBTxmcwHpA). Bilingual version.
 
-* 2022-2023:Entrepreneurship Star
+* 2021-2022:Entrepreneurship Star
   * XJTLU i-Star selection
   * Duties included: 1) Outstanding achievement in innovation and entrepreneurship, winning first place in the school competition for two consecutive years. 2) One of ten places in XJTLU.
   * [News 1](https://mp.weixin.qq.com/s/iyPLAfKzVgRNPapVv8u65g). Bilingual version.
 
 * 2022-2023: Excellent Student Cadre
   * Jiangsu Province
-  * Duties included: 1) Outstanding learning ability and leadership. 2) One of eight places in the XJTLU school, the only place in the SAT department of XJTLU.
+  * Duties included: 1) Outstanding learning ability and leadership. 2) One of eight places in the XJTLU school, the only place in School of Advanced Technology of XJTLU.
   * [News 1](https://mp.weixin.qq.com/s/MSUr7w2bkqwey3qHzeJX7g). Bilingual version.
   * [News 2](https://mp.weixin.qq.com/s/iaejnHQc0mp7r3MV-goqvg). Bilingual version.
 
@@ -199,11 +206,11 @@ Service and Leadership
 
 * 2022-2023: Outstanding Class Buddy
   * XJTLU
-  * Duties included: 1)Working with the school and guiding students in the lower grades
+  * Duties included: 1) Working with the school and guiding students in the lower grades
 
 * Winter, 2020: The team leader, Pioneer Award
   * 2020 I-Link of XJTLU 
-  * Duties included: 1) Led the team to preach in Alma mater and won the second prize.
+  * Duties included: 1) Led the team to take a lecture in Alma mater and won the second prize.
 
 * Winter, 2020: Excellent model
   * 2020 Military training of XJTLU
