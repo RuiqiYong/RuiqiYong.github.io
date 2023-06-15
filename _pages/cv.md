@@ -9,11 +9,47 @@ redirect_from:
 
 {% include base_path %}
 [Download CV of Hang Yuan here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV-Hang.Yuan.pdf)
+[Download additional information for more details](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/Additional%20Information-Hang.Yuan.pdf)
 
 Education
 ======
 * B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024(expected)
 * B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024(expected)
+
+Publications
+======
+Journal:
+* [Microfluidic-Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects (Cover paper)](https://enderhangyuan.github.io/publication/20230119), 2023
+
+* [Research Status and Prospects of Adaptive Robotic Hands(CN)](https://enderhangyuan.github.io/publication/20190410), 2019
+
+* [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124), 2023
+
+* [The Impact of Short Videos on Student Performance in an Online-Flipped College Engineering Course](https://enderhangyuan.github.io/publication/20220922), 2022
+
+* [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://enderhangyuan.github.io/publication/20230303), 2023
+
+Conference:
+* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement (Research posters abstract-1 page)](https://enderhangyuan.github.io/publication/202305101), 2023
+
+* [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811), 2019
+
+* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease (Research posters abstract-1 page)](https://enderhangyuan.github.io/publication/202305102), 2023
+
+* [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples (Oral Presentation)](https://enderhangyuan.github.io/publication/20230531), 2023
+
+* [Machine Learning-Based Fatigue Life Evaluation of the Pump Spindle Assembly with Parametrized Geometry](https://enderhangyuan.github.io/publication/20230612), 2023
+
+Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0000-0002-8079-7413) or [Google Scholar](https://scholar.google.com/citations?user=xaBXiK8AAAAJ&hl=zh-CN) for more information.
+
+Patents
+======
+
+* [A Cluster-Tube Self-Adaptive Robot Hand with Controllable Force for Rapid Grasping(CN)](https://enderhangyuan.github.io/talks/2019-10-25-patent-3), 2019
+
+* [A Parallel and Magnetic-Driven Robot Hand with Linkage Mechanisms(CN)](https://enderhangyuan.github.io/talks/2019-10-01-patent-2), 2019
+
+* [A Hedgehog-Inspired Magnetic-Driven Self-Adaptive Pin-Array Robot Hand(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2019
 
 Honours＆Awards
 ======
@@ -70,37 +106,6 @@ Research experience
   * Embedded Artificial Intelligence Hardware Universities-Enterprises Joint Key Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included:1) Developed and design of sentry robot based on some opened source materials from other universities. 2) Improved quick disassembly structure and Single muzzle head. 3) Designed the whole Sentry robot and the chassis drawings of the engineering robot using SoildWorks, AutoCAD and 3D printing. 4) Optimized mechanical structure and selected customized materials.5)Took charge of the team's investment (Received sponsorship totaling 60,000 RMB in 2022) and cooperation activities.
   * Supervisor: [Associate Professor Chun Zhao](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/chun-zhao)
-
-Publications
-======
-* [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples (Oral Presentation)](https://enderhangyuan.github.io/publication/20230531)
-
-* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement (Research posters abstract-1 page)](https://enderhangyuan.github.io/publication/202305101)
-
-* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer s Disease (Research posters abstract-1 page)](https://enderhangyuan.github.io/publication/202305102)
-
-* [An ultrasensitive FET biosensor based on vertically aligned MoS2 nanolayers with abundant surface active sites](https://enderhangyuan.github.io/publication/20230303), 2023
-
-* [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124), 2023
-
-* [Microfluidic-Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects (Cover paper)](https://enderhangyuan.github.io/publication/20230119), 2023
-
-* [The impact of short videos on student performance in an online-flipped college engineering course](https://enderhangyuan.github.io/publication/20220922), 2022
-
-* [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811), 2019
-
-* [Research Status and Prospects of Adaptive Robotic Hands(CN)](https://enderhangyuan.github.io/publication/20190410), 2019
-
-Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0000-0002-8079-7413) for more information.
-
-Patents
-======
-
-* [Adaptive robotic hand device for force-controlled rapid gripping of pole gripper groups(CN)](https://enderhangyuan.github.io/talks/2019-10-25-patent-3), 2019
-
-* [A Magnetic Drive Linkage Translational Robot Hand Device(CN)](https://enderhangyuan.github.io/talks/2019-10-01-patent-2), 2019
-
-* [Hedgehog-like Magnetic Drive Rod Ball Adaptive Robotic Hand Device(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2019
 
 Internship experiences
 ======
