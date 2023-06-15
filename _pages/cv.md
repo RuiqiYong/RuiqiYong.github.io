@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 [Download CV of Hang Yuan here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV-Hang.Yuan.pdf)
+
 [Download additional information for more details](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/Additional%20Information-Hang.Yuan.pdf)
 
 Education
