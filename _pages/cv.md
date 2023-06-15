@@ -43,7 +43,7 @@ Conference:
 
 Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0000-0002-8079-7413) or [Google Scholar](https://scholar.google.com/citations?user=xaBXiK8AAAAJ&hl=zh-CN) for more information.
 
-Patents
+Granted Patents
 ======
 
 * [A Cluster-Tube Self-Adaptive Robot Hand with Controllable Force for Rapid Grasping(CN)](https://enderhangyuan.github.io/talks/2019-10-25-patent-3), 2019
@@ -55,26 +55,32 @@ Patents
 Honours＆Awards
 ======
 The photograph is from the official website of DJI [RoboMaster](https://www.robomaster.com/en-US) for competition cultural promotion (I am the first one on the left).
+
+Three 1𝑠𝑡 prizes, one 2𝑛𝑑 prizes, and three 3𝑟𝑑 prizes in national-level competitions:
 * The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition _National Regional_, 2022
-* The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition _Eastern China Regional_, 2022
 * The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition _Standard Robot Strength Award_, 2022
+* The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robotics Project Vision Robot Recognition Competition (Undergraduate) Project Competition, 2021
+* The 2𝑛𝑑 Prize of 2021 RoboMaster University Technical Challenge in the 20th National University Robot Competition "Standard Racing and Smart Firing" _National Regional_, 2021
+* The 3𝑟𝑑 Prize of 2022 RoboMaster University Technical Challenge in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" _National Regional_, 2022
+* The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition _National Regional_, 2021
+* The 3𝑟𝑑 Prize of the [8th China International "Internet+" Student Innovation and Entrepreneurship Competition](http://www.moe.gov.cn/srcsite/A08/s5672/202204/t20220412_616047.html), 2022
+
+Two 1𝑠𝑡 prizes, five 2𝑛𝑑 prizes, and six 3𝑟𝑑 prizes in provincial-level competitions:
+* The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition _Eastern China Regional_, 2022
 * The 1𝑠𝑡 Prize of 2022 RoboMaster University League Regional Activity among Hundreds of Universities "Operator Online Simulation League", 2022
 * The 2𝑛𝑑 Prize of 2022 [RoboMaster University Technical Challenge](https://www.robomaster.com/en-US/robo/rmtc?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" _Eastern China Regional_, 2022
-* The 3𝑟𝑑 Prize of 2022 RoboMaster University Technical Challenge in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" _National Regional_, 2022
-* The 2𝑛𝑑 Prize of 2021 RoboMaster University Technical Challenge in the 20th National University Robot Competition "Standard Racing and Smart Firing" _National Regional_, 2021
-* The 2𝑛𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition _South China Regional_, 2021 
-* The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition _National Regional_, 2021 
-* The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robotics Project Vision Robot Recognition Competition (Undergraduate) Project Competition, 2021
+* The 2𝑛𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition _South China Regional_, 2021
 * The 2𝑛𝑑 Prize of 2022 [RoboMaster University League](https://www.robomaster.com/en-US/robo/college-league?djifrom=nav) (Online) 3V3 Confrontation in the 21𝑠𝑡 National University Robot Competition, 2022
 * The 2𝑛𝑑 Prize of 2021 RoboMaster University League (Jiangsu Province) Standard Robot Confrontation in the 20th National University Robot Competition, 2021
-* The 3𝑟𝑑 Prize of 2021 RoboMaster University League (Jiangsu Province) 3V3 Confrontation in the 20th National University Robot Competition _Sentry Robot Strength Award_, 2021
 * The 2𝑛𝑑 Prize of the [3𝑟𝑑 Yangtze River Delta JITRI Innovation Competition](https://mp.weixin.qq.com/s/JrIwJ4mau7RUwZTksQfefg), 2023
-* The 3𝑟𝑑 Prize of the [8th China International "Internet+" Student Innovation and Entrepreneurship Competition](http://www.moe.gov.cn/srcsite/A08/s5672/202204/t20220412_616047.html), 2022
+* The 3𝑟𝑑 Prize of 2021 RoboMaster University League (Jiangsu Province) 3V3 Confrontation in the 20th National University Robot Competition _Sentry Robot Strength Award_, 2021
 * The 3𝑟𝑑 Prize of the 8th "Internet+" Student Innovation and Entrepreneurship Competition (Jiangsu Province), 2022
 * The 3𝑟𝑑 Prize of the 12th ["Challenge Cup"](https://baike.baidu.com/item/%E2%80%9C%E6%8C%91%E6%88%98%E6%9D%AF%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E8%AE%A1%E5%88%92%E7%AB%9E%E8%B5%9B/9837613?fromModule=lemma_inlink) Student Entrepreneurial Plan Competition (Jiangsu Province), 2022
 * The 3𝑟𝑑 Prize of 2022 [Changzhou "International Intelligent Manufacturing" Innovation and Entrepreneurship Competition Robotics and Intelligent Hardware Challenge](http://www.changzhou.gov.cn/ns_news/795165231605032), 2022
 * The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division _(6/77)_, 2022
 * The Excellence Award and the Best Popularity Award of [Yangtze River Delta (YRD) Intellectual Property Innovation and Application Competition](http://www.xjtlu-ttc.com/ip-competition), 2022
+
+Three 1𝑠𝑡 prizes in university-level competitions:
 * The 1𝑠𝑡 Prize of [XJTLU Global Entrepreneurial Dream-chasers Competition](https://www.sohu.com/a/591644587_121124035), 2022
 * The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU, 2022  
 * The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU, 2021![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
