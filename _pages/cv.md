@@ -52,7 +52,14 @@ Granted Patents
 
 * [A Hedgehog-Inspired Magnetic-Driven Self-Adaptive Pin-Array Robot Hand(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2019
 
-Honours ＆ Awards
+Honours
+======
+* Excellent Student Cadre (University-wide top 0.1%), Jiangsu Province, 2022-2023
+* Outstanding Student (School-wide top 5%), XJTLU, 2021-2022
+* Excellent Student Cadre & Outstanding Class Cadre (University-wide top 1%), XJTLU, 2020-2021                
+* Entrepreneurship Star (University-wide top 1%), XJTLU, 2021-2022 & 2022-2023   
+
+Awards
 ======
 Three 1𝑠𝑡 prizes, one 2𝑛𝑑 prizes, and three 3𝑟𝑑 prizes in national-level competitions:
 * The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition _National Regional_, 2022
@@ -82,15 +89,9 @@ Three 1𝑠𝑡 prizes in university-level competitions:
 * The 1𝑠𝑡 Prize of [XJTLU Global Entrepreneurial Dream-chasers Competition](https://www.sohu.com/a/591644587_121124035), 2022
 * The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU, 2022  
 * The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU, 2021
-
-Honours:
-* Excellent Student Cadre (University-wide top 0.1%), Jiangsu Province, 2022-2023
-* Outstanding Student (School-wide top 5%), XJTLU, 2021-2022
-* Excellent Student Cadre & Outstanding Class Cadre (University-wide top 1%), XJTLU, 2020-2021                
-* Entrepreneurship Star (University-wide top 1%), XJTLU, 2021-2022 & 2022-2023                          
 ![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 The photograph is from the official website of DJI [RoboMaster](https://www.robomaster.com/en-US) for competition cultural promotion (I am the first one on the left).
-
+                       
 Research Experience
 ======
 * Centrifugation-Assisted Lateral Flow Assay (CLFA) Platform (01.2022-Current: Research Leader)
