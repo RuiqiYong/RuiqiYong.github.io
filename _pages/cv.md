@@ -207,7 +207,7 @@ Service ＆ Leadership
 
 * 2022-2023: Outstanding Class Buddy
   * XJTLU
-  * Duties included: 1) Working with the school and guiding students in the lower grades
+  * Duties included: 1) Worked with the university and guided students in the lower grades
 
 * Winter, 2020: The team leader, Pioneer Award
   * 2020 I-Link of XJTLU 
