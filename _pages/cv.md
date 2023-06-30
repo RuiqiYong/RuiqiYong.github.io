@@ -22,6 +22,8 @@ Publications
 Journal:
 * [Microfluidic-Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects (Cover paper)](https://enderhangyuan.github.io/publication/20230119), 2023
 
+* [Deep Learning for Microfluidic-Assisted _Caenorhabditis elegans_ Multi-Parameter Identification Using YOLOv7](https://enderhangyuan.github.io/publication/20230629), 2023
+
 * [Research Status and Prospects of Adaptive Robotic Hands(CN)](https://enderhangyuan.github.io/publication/20190410), 2019
 
 * [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124), 2023
