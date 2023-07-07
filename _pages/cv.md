@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV of Hang Yuan here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV-Hang.Yuan.pdf)
+[Download the CV of Hang Yuan here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV%20of%20Hang.Yuan.pdf)
+
+[If you would like to learn more, please download a more extended version of Hang Yuan's CV here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV-Hang.Yuan.pdf)
 
 [Download additional information for more details](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/Additional%20Information-Hang.Yuan.pdf)
 
