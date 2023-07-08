@@ -35,13 +35,15 @@ Journal:
 * [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://enderhangyuan.github.io/publication/20230303), 2023
 
 Conference:
-* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement (Research posters abstract-1 page)](https://enderhangyuan.github.io/publication/202305101), 2023
+* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement (Poster)](https://enderhangyuan.github.io/publication/202305101), 2023
 
 * [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811), 2019
 
-* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease (Research posters abstract-1 page)](https://enderhangyuan.github.io/publication/202305102), 2023
+* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease (Poster)](https://enderhangyuan.github.io/publication/202305102), 2023
 
 * [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples (Oral Presentation)](https://enderhangyuan.github.io/publication/20230531), 2023
+
+* [An Offline Deep Learning-Assisted Automated Paper-Based Microfluidic Platform (Poster)](https://enderhangyuan.github.io/publication/20230708), 2023
 
 * [Machine Learning-Based Fatigue Life Evaluation of the Pump Spindle Assembly with Parametrized Geometry](https://enderhangyuan.github.io/publication/20230612), 2023
 
