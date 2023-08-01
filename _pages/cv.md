@@ -70,7 +70,7 @@ Awards
 Three 1𝑠𝑡 prizes, one 2𝑛𝑑 prizes, and three 3𝑟𝑑 prizes in national-level competitions:
 * The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition _National Regional_, 2022
 * The 1𝑠𝑡 Prize of 2022 RoboMaster University Championship in the 21𝑠𝑡 National University Robot Competition _Standard Robot Strength Award_, 2022
-* The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robotics Project Vision Robot Recognition Competition (Undergraduate) Project Competition, 2021
+* The 1𝑠𝑡 Prize of 2021 [China Engineering Robotics Competition and International Open Championship](http://www.robotmatch.cn/) Vision Robot Recognition Competition (Undergraduate), 2021
 * The 2𝑛𝑑 Prize of 2021 RoboMaster University Technical Challenge in the 20th National University Robot Competition "Standard Racing and Smart Firing" _National Regional_, 2021
 * The 3𝑟𝑑 Prize of 2022 RoboMaster University Technical Challenge in the 21𝑠𝑡 National University Robot Competition "Standard Racing and Smart Firing" _National Regional_, 2022
 * The 3𝑟𝑑 Prize of 2021 RoboMaster University Championship in the 20th National University Robot Competition _National Regional_, 2021
