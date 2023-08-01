@@ -3,7 +3,7 @@ title: "12th International Conference on Intelligent Robotics and Applications (
 collection: portfolio
 ---
 
-Please check the conference poster and demo videos here.
+At ICIRA, we delivered an oral presentation, showcased a poster, and published a full-length paper, with me being the first author. For specific information, please refer to the following link：[A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811). Please also check the conference poster and demo videos here.
 
 [Download the first version of the robot hand demo video here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/images/%E7%A3%81%E9%A9%B1%E6%BB%91%E7%AE%A1%E8%87%AA%E9%80%82%E5%BA%94%E9%80%9A%E7%94%A8%E6%8A%93%E6%8C%81%E5%99%A8%E8%A7%86%E9%A2%91.mp4)
 
