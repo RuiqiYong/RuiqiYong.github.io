@@ -239,6 +239,7 @@ Skills
   * _CAD/CAE_: SolidWorks, AutoCAD, ANSYS (workbench), Rhino
   * _Graphic design_: Adobe Illustrator, Adobe Premiere, Adobe Photoshop, KeyShot, Origin
 * Experimental Skills:
+  * _Fabrication_: 3D printing, wax printing, laser cutting
   * _Immunoassays_: Enzyme-linked immunosorbent assay (ELISA), Lateral flow assay (LFA)
   * _Chemical synthesis_: AuNPs, AgNPs, Bottlebrush elastomers
   * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography)
