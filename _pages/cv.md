@@ -19,6 +19,10 @@ Education
 * B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024(expected)
 * B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024(expected)
 
+Standardized Scores
+======
+* GRE General Test: 327 (Verbal: 160, 84th Percentile; Quantitative: 167, 83rd Percentile) + 4.5 (Analytical Writing, 81st Percentile)
+
 Publications
 ======
 Peer-Reviewed Journal Papers:
@@ -108,34 +112,34 @@ Research Experience
 * Centrifugation-Assisted Lateral Flow Assay (CLFA) Platform (01.2022-Current: Research Leader)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Addressed the limited sensitivity and uncontrollable incubation time of traditional LFA. 2）Developed a CLFA platform that offers adjustable rotation speeds and enables smartphone-based quantitative bioassay detection, displaying results on the custom-designed UI and mobile application. 3) Developed a bio-inspired microfluidic channel to enhance the sensitivity of LFA in bioassays.
-  * Supervisor: [Assistant Professor Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song)
+  * Supervisor: [Dr. Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song), Xi'an Jiaotong-Liverpool University
 ![Research 2](https://user-images.githubusercontent.com/98693538/203786462-740de5d6-629b-4294-94b4-a10447d13a01.jpg)
 
 * Microfluidic-Assisted _Caenorhabditis elegans_ (_C. elegans_) Sorting (07.2022-06.2023: Research Leader)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Provided a comprehensive review of the up-to-date microfluidic-assisted _C. elegans_ sorting developments from several angles to suit researchers with different backgrounds. 2）Accepted as a cover paper and featured by the renowned organization _AAAS & EurekAlert!_. 3) Developed a deep learning model using YOLOv7 to automatically detect and recognize _C. elegans_ in microfluidic chips, enabling efficient identification and measurement of multiple phenotypes (_e.g._, size and movement speed).
-  * Supervisor: Assistant Professor Pengfei Song
+  * Supervisor: Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
 
 * Nanocellulose-Paper-Based Microfluidic Platform (07.2022-Current: Assistant Research Leader)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanocellulose paper (nanopaper), optimizing the pattern parameters and saving time. 2）Developed fundamental microfluidic devices and functional nanopaper-based analytical devices (NanoPADs). 3) Performed colorimetric experiments and tested the droplet generation. 4) Detected untreated glial fibrillary acidic protein (GFAP) in human plasma without pretreatment using SERS on NanoPADs, enabling highly sensitive early screening of Alzheimer's disease.
-  * Supervisor: [Professor Xinyu Liu](https://www.mie.utoronto.ca/faculty_staff/xinyu-liu/) & Assistant Professor Pengfei Song
+  * Supervisor: [Prof. Xinyu Liu](https://www.mie.utoronto.ca/faculty_staff/xinyu-liu/), University of Toronto & Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
 
 * Humanoid Robot and Fatigue Analysis (05.2021-10.2021: Research Assistant)
   * [Summer Undergraduate Reasearch Fellowships](https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction), Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Developed humanoid robots based on Raspberry Pi or Arduino, and programmed motion sequences. 2）Assisted in the numerical and experimental analysis of a specific-sized spindle model to predict and compare fatigue life under various external loading conditions, validating the accuracy and reliability of the numerical simulation. 
-  * Supervisor: [Associate Professor Min Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/industrial-design/staff/min-chen) ＆ [Assistant Professor Quan Zhang](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/quan-zhang)
+  * Supervisor: [Dr. Min Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/industrial-design/staff/min-chen), Xi'an Jiaotong-Liverpool University ＆ [Dr. Quan Zhang](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/quan-zhang), Xi'an Jiaotong-Liverpool University
 ![Research 1](https://user-images.githubusercontent.com/98693538/203786515-6d50629e-4dc9-41f7-837e-697a85ce1a7c.jpg)
 
 * ROBOMASTER National University Robot Competitions (10.2020-10.2022: Mechanical Engineer & Investment Manager)
   * Embedded Artificial Intelligence Hardware Universities-Enterprises Joint Key Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Designed mechanical components for an automated sentry robot, including the launching and mobility mechanisms, enabling the launch of 17mm projectiles and rapid disassembly from the track. 2）Fabricated robots using appropriate materials (_e.g._, fiberglass, carbon fiber, resin, and nylon). 3) Authored business proposals and secured enterprise sponsorships to support team funding and operations. 
-  * Supervisor: [Professor Cezhou Zhao](https://scholar.google.com/citations?user=Tl6gXWgAAAAJ&hl=zh-CN) & [Associate Professor Chun Zhao](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/chun-zhao)
+  * Supervisor: [Prof. Cezhou Zhao (Cherish forever)](https://scholar.google.com/citations?user=Tl6gXWgAAAAJ&hl=zh-CN), Xi'an Jiaotong-Liverpool University & [Dr. Chun Zhao](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/chun-zhao), Xi'an Jiaotong-Liverpool University
 
 * Self-Adaptive Robot Hands (01.2018-08.2019: Visiting Student)
   * Key Laboratory for Advanced Materials Processing Technology, Tsinghua University
   * Duties included: 1）Developed a hedgehog-inspired pin-array robot hand with multiple magnetic pins for adaptive grasping. 2）Developed a self-adaptive robot hand with controllable gripping force and a magnetic-driven robot hand for parallel gripping, enabling quickly grasping objects with diverse shapes.
-  * Supervisor: [Associate Professor Wenzeng Zhang](https://www.me.tsinghua.edu.cn/en/info/1090/1272.htm)
+  * Supervisor: [Dr. Wenzeng Zhang](https://www.me.tsinghua.edu.cn/en/info/1090/1272.htm), Tsinghua University
 
 Internship Experiences
 ======
@@ -234,6 +238,10 @@ Skills
   * _Programming_: C, Arduino, MATLAB
   * _CAD/CAE_: SolidWorks, AutoCAD, ANSYS (workbench), Rhino
   * _Graphic design_: Adobe Illustrator, Adobe Premiere, Adobe Photoshop, KeyShot, Origin
+* Experimental Skills:
+  * _Immunoassays_: Enzyme-linked immunosorbent assay (ELISA), Lateral flow assay (LFA)
+  * _Chemical synthesis_: AuNPs, AgNPs, Bottlebrush elastomers
+  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography)
 * Language:
   * Mandarin (Native)
-  * English
+  * English (English-only instruction)
