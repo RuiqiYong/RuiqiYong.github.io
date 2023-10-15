@@ -21,50 +21,55 @@ Education
 
 Publications
 ======
-Journal:
-* [Microfluidic-Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects (Cover paper)](https://enderhangyuan.github.io/publication/20230119), 2023
+Peer-Reviewed Journal Papers:
+* [Microfluidic-Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects](https://enderhangyuan.github.io/publication/20230119) (Cover paper-First author), 2023
 
-* [Deep Learning for Microfluidic-Assisted _Caenorhabditis elegans_ Multi-Parameter Identification Using YOLOv7](https://enderhangyuan.github.io/publication/20230629), 2023
+* [Deep Learning for Microfluidic-Assisted _Caenorhabditis elegans_ Multi-Parameter Identification Using YOLOv7](https://enderhangyuan.github.io/publication/20230629) (Co-first author), 2023
 
-* [Research Status and Prospects of Adaptive Robotic Hands(CN)](https://enderhangyuan.github.io/publication/20190410), 2019
+* [Research Status and Prospects of Adaptive Robotic Hands (CN)](https://enderhangyuan.github.io/publication/20190410) (First author), 2019
 
-* [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124), 2023
+* [Microembossing: A Convenient Process for Fabricating Microchannels on Nanocellulose Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20231006) (Second author), 2023
 
-* [The Impact of Short Videos on Student Performance in an Online-Flipped College Engineering Course](https://enderhangyuan.github.io/publication/20220922), 2022
+* [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124) (Second author), 2023
+
+* [The Impact of Short Videos on Student Performance in an Online-Flipped College Engineering Course](https://enderhangyuan.github.io/publication/20220922) (Second author), 2022
 
 * [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://enderhangyuan.github.io/publication/20230303), 2023
 
-Conference:
-* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement (Poster)](https://enderhangyuan.github.io/publication/202305101), 2023
-
-* [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811), 2019
-
-* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease (Poster)](https://enderhangyuan.github.io/publication/202305102), 2023
-
-* [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples (Oral Presentation)](https://enderhangyuan.github.io/publication/20230531), 2023
-
-* [An Offline Deep Learning-Assisted Automated Paper-Based Microfluidic Platform (Poster)](https://enderhangyuan.github.io/publication/20230708), 2023
+Peer-Reviewed Conference Papers:
+* [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811) (First author), 2019
 
 * [Machine Learning-Based Fatigue Life Evaluation of the Pump Spindle Assembly with Parametrized Geometry](https://enderhangyuan.github.io/publication/20230612), 2023
 
 Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0000-0002-8079-7413) or [Google Scholar](https://scholar.google.com/citations?user=xaBXiK8AAAAJ&hl=zh-CN) for more information.
 
+Conference Participation
+======
+* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://enderhangyuan.github.io/publication/202305101) (Poster), 2023
+
+* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease](https://enderhangyuan.github.io/publication/202305102) (Poster), 2023
+
+* [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples](https://enderhangyuan.github.io/publication/20230531) (Oral Presentation), 2023
+
+* [An Offline Deep Learning-Assisted Automated Paper-Based Microfluidic Platform](https://enderhangyuan.github.io/publication/20230708) (Poster), 2023
+
 Granted Patents
 ======
+* [A Hedgehog-Inspired Magnetic-Driven Self-Adaptive Pin-Array Robot Hand(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2023 (Invention patent)
 
-* [A Cluster-Tube Self-Adaptive Robot Hand with Controllable Force for Rapid Grasping(CN)](https://enderhangyuan.github.io/talks/2019-10-25-patent-3), 2019
+* [A Cluster-Tube Self-Adaptive Robot Hand with Controllable Force for Rapid Grasping(CN)](https://enderhangyuan.github.io/talks/2019-10-25-patent-3), 2019 (Utility model patent)
 
-* [A Parallel and Magnetic-Driven Robot Hand with Linkage Mechanisms(CN)](https://enderhangyuan.github.io/talks/2019-10-01-patent-2), 2019
+* [A Parallel and Magnetic-Driven Robot Hand with Linkage Mechanisms(CN)](https://enderhangyuan.github.io/talks/2019-10-01-patent-2), 2019 (Utility model patent)
 
-* [A Hedgehog-Inspired Magnetic-Driven Self-Adaptive Pin-Array Robot Hand(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2019
+* [A Hedgehog-Inspired Magnetic-Driven Self-Adaptive Pin-Array Robot Hand(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2019 (Utility model patent)
 
-Honours
+Honors
 ======
 * Excellent Student Cadre (University-wide top 0.1%), Jiangsu Province, 2022-2023
 * Outstanding Student (School-wide top 5%), XJTLU, 2021-2022
+* Entrepreneurship Star (University-wide top 1%), XJTLU, 2021-2022 & 2022-2023  
 * Excellent Student Cadre & Outstanding Class Cadre (University-wide top 1%), XJTLU, 2020-2021                
-* Entrepreneurship Star (University-wide top 1%), XJTLU, 2021-2022 & 2022-2023   
-
+ 
 Awards
 ======
 Three 1𝑠𝑡 prizes, one 2𝑛𝑑 prizes, and three 3𝑟𝑑 prizes in national-level competitions:
