@@ -23,6 +23,7 @@ Education
 
 Standardized Scores
 ======
+* Duolingo English Test: 140/160 (Literacy: 140; Conversation: 125; Comprehension: 155; Production: 100)
 * GRE General Test: 327 (Verbal: 160, 84th Percentile; Quantitative: 167, 83rd Percentile) + 4.5 (Analytical Writing, 81st Percentile)
 
 Publications
