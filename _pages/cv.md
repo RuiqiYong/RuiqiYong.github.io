@@ -63,7 +63,7 @@ Conference Participation
 
 Granted Patents
 ======
-* [A Parallel and Magnetic-Driven Robot Hand with Linkage Mechanisms(CN)], 2023 (Invention patent)
+* A Parallel and Magnetic-Driven Robot Hand with Linkage Mechanisms(CN), 2023 (Invention patent)
 
 * [A Hedgehog-Inspired Magnetic-Driven Self-Adaptive Pin-Array Robot Hand(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2023 (Invention patent)
 
