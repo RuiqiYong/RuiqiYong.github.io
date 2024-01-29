@@ -127,11 +127,14 @@ Research Experience
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Provided a comprehensive review of the up-to-date microfluidic-assisted _C. elegans_ sorting developments from several angles to suit researchers with different backgrounds. 2）Accepted as a cover paper and featured by the renowned organization _AAAS & EurekAlert!_. 3) Developed a deep learning model using YOLOv7 to automatically detect and recognize _C. elegans_ in microfluidic chips, enabling efficient identification and measurement of multiple phenotypes (_e.g._, size and movement speed).
   * Supervisor: Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
+![Research 5](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/40b69e70-03ab-47d4-86ee-ea6bcf19f834)
 
 * Nanocellulose Paper (nanopaper)-Based Microfluidic Platform (07.2022-Current: Research Assistant)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanocellulose paper, optimizing the pattern parameters and saving time. 2）Developed fundamental microfluidic devices and functional nanopaper-based analytical devices (NanoPADs). 3) Performed colorimetric experiments and tested the droplet generation. 4) Detected untreated glial fibrillary acidic protein (GFAP) in human plasma without pretreatment using SERS on NanoPADs, enabling highly sensitive early screening of Alzheimer's disease.
   * Supervisor: [Prof. Xinyu Liu](https://www.mie.utoronto.ca/faculty_staff/xinyu-liu/), University of Toronto & Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
+![Research 3](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/40c7287b-3913-4bed-b830-9a1f1d4c4e34)
+![Research 4](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/9721ca4d-58e4-4545-a110-062f07623877)
 
 * Humanoid Robot and Fatigue Analysis (05.2021-10.2021: Research Assistant)
   * [Summer Undergraduate Reasearch Fellowships](https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction), Xi'an Jiaotong-Liverpool University
