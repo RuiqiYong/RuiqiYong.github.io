@@ -44,6 +44,8 @@ Peer-Reviewed Journal Papers:
 
 * [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://enderhangyuan.github.io/publication/20230303), 2023
 
+* [Mechanical Characterization of Multifunctional Metal-Coated Polymer Lattice Structures](https://enderhangyuan.github.io/publication/20240203), 2024
+
 Peer-Reviewed Conference Papers:
 * [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811) (First author), 2019
 
