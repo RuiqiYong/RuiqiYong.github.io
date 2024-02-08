@@ -49,7 +49,7 @@ Peer-Reviewed Journal Papers:
 Peer-Reviewed Conference Papers:
 * [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811) (First author), 2019
 
-* [Machine Learning-Based Fatigue Life Evaluation of the Pump Spindle Assembly with Parametrized Geometry](https://enderhangyuan.github.io/publication/20230612), 2023
+* [Machine Learning-Based Fatigue Life Evaluation of the Pump Spindle Assembly with Parametrized Geometry](https://enderhangyuan.github.io/publication/20240205), 2024
 
 Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0000-0002-8079-7413) or [Google Scholar](https://scholar.google.com/citations?user=xaBXiK8AAAAJ&hl=zh-CN) for more information.
 
