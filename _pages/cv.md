@@ -42,6 +42,8 @@ Peer-Reviewed Journal Papers:
 
 * [Mechanical Characterization of Multifunctional Metal-Coated Polymer Lattice Structures](https://enderhangyuan.github.io/publication/20240203), 2024
 
+* [Cellulose Nanostructures as Tunable Substrates for Nanocellulose-Metal Hybrid Flexible Composites](https://enderhangyuan.github.io/publication/20240216), 2024
+
 Peer-Reviewed Conference Papers:
 * [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811) (First author), 2019
 
