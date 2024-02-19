@@ -53,9 +53,9 @@ Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0
 
 Conference Participation
 ======
-* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://enderhangyuan.github.io/publication/202305101) (Poster), 2023
+* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://enderhangyuan.github.io/publication/202305101) (Poster-First author), 2023
 
-* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease](https://enderhangyuan.github.io/publication/202305102) (Poster), 2023
+* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease](https://enderhangyuan.github.io/publication/202305102) (Poster-Second author), 2023
 
 * [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples](https://enderhangyuan.github.io/publication/20230531) (Oral Presentation), 2023
 
