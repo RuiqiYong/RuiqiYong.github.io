@@ -77,10 +77,12 @@ Granted Patents
 
 Honors
 ======
+* Final Year Project Best Student Poster Award (School-wide top 1), XJTLU, 2023-2024
 * Excellent Student Cadre (University-wide top 0.1%), Jiangsu Province, 2022-2023
 * Outstanding Student (School-wide top 5%), XJTLU, 2021-2022
 * Entrepreneurship Star (University-wide top 1%), XJTLU, 2021-2022 & 2022-2023  
-* Excellent Student Cadre & Outstanding Class Cadre (University-wide top 1%), XJTLU, 2020-2021                
+* Excellent Student Cadre & Outstanding Class Cadre (University-wide top 1%), XJTLU, 2020-2021
+![Best Student Poster Award](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/75bce9b1-88ca-4c71-a5f1-f6ead8b407e5)                
  
 Awards
 ======
