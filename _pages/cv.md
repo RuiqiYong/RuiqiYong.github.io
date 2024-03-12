@@ -63,7 +63,7 @@ Conference Participation
 
 Granted Patents
 ======
-*[A Smartphone-Based Automated Paper-Based Microfluidic System (CN)](https://enderhangyuan.github.io/talks/2022-12-13-patent-4), 2024 (Invention patent)
+* [A Smartphone-Based Automated Paper-Based Microfluidic System (CN)](https://enderhangyuan.github.io/talks/2022-12-13-patent-4), 2024 (Invention patent)
 
 * [A Cluster-Tube Self-Adaptive Robot Hand with Controllable Force for Rapid Grasping(CN)](https://enderhangyuan.github.io/talks/2019-10-25-patent-3), 2023 (Invention patent)
 
