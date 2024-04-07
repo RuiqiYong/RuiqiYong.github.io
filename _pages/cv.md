@@ -46,6 +46,8 @@ Peer-Reviewed Journal Papers:
 
 * [Cellulose Nanostructures as Tunable Substrates for Nanocellulose-Metal Hybrid Flexible Composites](https://enderhangyuan.github.io/publication/20240216), 2024
 
+* [Automatic offline-capable smartphone paper-based microfluidic device for efficient Alzheimer's disease detection](https://enderhangyuan.github.io/publication/20240406), 2024
+
 Peer-Reviewed Conference Papers:
 * [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811) (First author), 2019
 
