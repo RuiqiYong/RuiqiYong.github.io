@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome here! I am Hang Yuan. Seeking a Ph.D. position in the fall of 2024!"
+title: "Welcome here! I am Hang Yuan."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
