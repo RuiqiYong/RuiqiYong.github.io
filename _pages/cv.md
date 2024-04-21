@@ -32,6 +32,8 @@ Peer-Reviewed Journal Papers:
 
 * [Research Status and Prospects of Adaptive Robotic Hands (CN)](https://enderhangyuan.github.io/publication/20190410) (First author), 2019
 
+* [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://enderhangyuan.github.io/publication/20240408) (Cover paper-Second author), 2024
+
 * [A SERS Nanocellulose-Paper-Based Analytical Device for Ultrasensitive Detection of Alzheimer's Disease](https://enderhangyuan.github.io/publication/20240304) (Second author), 2024
 
 * [Microembossing: A Convenient Process for Fabricating Microchannels on Nanocellulose Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20231006) (Second author), 2023
