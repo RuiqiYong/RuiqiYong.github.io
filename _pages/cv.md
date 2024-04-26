@@ -53,6 +53,10 @@ Peer-Reviewed Journal Papers:
 Peer-Reviewed Conference Papers:
 * [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811) (First author), 2019
 
+* Automated Offline Smartphone-Assisted Microfluidic Paper-Based Analytical Device for Biomarker Detection of Alzheimer's Disease, 2024
+
+* An Automated Microfluidic Paper-Based Analytical Device for Chemiluminescence Immunoassay, 2024
+
 * [Machine Learning-Based Fatigue Life Evaluation of the Pump Spindle Assembly with Parametrized Geometry](https://enderhangyuan.github.io/publication/20231029), 2023
 
 Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0000-0002-8079-7413) or [Google Scholar](https://scholar.google.com/citations?user=xaBXiK8AAAAJ&hl=zh-CN) for more information.
@@ -86,6 +90,7 @@ Granted Patents
 Honors
 ======
 * Final Year Project Best Student Poster Award (School-wide top 1), XJTLU, 2023-2024
+* Outstanding Student (University-wide top 0.1%), Jiangsu Province, 2023-2024
 * Excellent Student Cadre (University-wide top 0.1%), Jiangsu Province, 2022-2023
 * Outstanding Student (School-wide top 5%), XJTLU, 2021-2022
 * Entrepreneurship Star (University-wide top 1%), XJTLU, 2021-2022 & 2022-2023  
