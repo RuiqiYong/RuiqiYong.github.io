@@ -14,6 +14,8 @@ I'm pursuing my B.Eng. degrees in [Mechatronics and Robotic Systems](https://www
 
 I once learned robot hands from [Associate Professor Wenzeng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=n-3doEMAAAAJ&view_op=list_works&sortby=pubdate) in the Key Laboratory for Advanced Materials Processing Technology, [Department of Mechanical Engineering, Tsinghua University](https://www.me.tsinghua.edu.cn/en/).
 
+I will begin my doctoral studies in [Biomedical Engineering](https://engineering.msu.edu/about/departments/bme) at [Michigan State University (MSU)](https://msu.edu/) in the fall of 2024.
+
 Research Interest
 =====
 * Paper-based microfluidics, including LFA, ELISA, and nanocellulose paper
@@ -25,5 +27,6 @@ Research Interest
 
 Education Experience
 =====
-* B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024(expected)
-* B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024(expected)
+* Ph.D. in Biomedical Engineering, Michigan State University, 2024-2029 (expected)
+* B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024 (expected)
+* B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024 (expected)
