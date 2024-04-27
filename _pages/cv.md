@@ -54,9 +54,9 @@ Peer-Reviewed Journal Papers:
 Peer-Reviewed Conference Papers:
 * [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811) (First author), 2019
 
-* Automated Offline Smartphone-Assisted Microfluidic Paper-Based Analytical Device for Biomarker Detection of Alzheimer's Disease, 2024
+* [Automated Offline Smartphone-Assisted Microfluidic Paper-Based Analytical Device for Biomarker Detection of Alzheimer's Disease](https://enderhangyuan.github.io/publication/202404301), 2024
 
-* An Automated Microfluidic Paper-Based Analytical Device for Chemiluminescence Immunoassay, 2024
+* [An Automated Microfluidic Paper-Based Analytical Device for Chemiluminescence Immunoassay](https://enderhangyuan.github.io/publication/202404302), 2024
 
 * [Machine Learning-Based Fatigue Life Evaluation of the Pump Spindle Assembly with Parametrized Geometry](https://enderhangyuan.github.io/publication/20231029), 2023
 
