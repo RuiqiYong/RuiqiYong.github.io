@@ -68,6 +68,8 @@ Conference Participation
 
 * [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease](https://enderhangyuan.github.io/publication/202305102) (Poster-Second author), 2023
 
+* [Nanocellulose-Paper-Based Analytical Devices with MOFs/Heterojunction Structures for Multiplex SERS Detection](https://enderhangyuan.github.io/publication/20240506) (Poster-Second author), 2024
+
 * [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples](https://enderhangyuan.github.io/publication/20230531) (Oral Presentation), 2023
 
 * [An Offline Deep Learning-Assisted Automated Paper-Based Microfluidic Platform](https://enderhangyuan.github.io/publication/20230708) (Poster), 2023
