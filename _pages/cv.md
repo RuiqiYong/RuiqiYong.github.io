@@ -145,7 +145,7 @@ Research Experience
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Provided a comprehensive review of the up-to-date microfluidic-assisted _C. elegans_ sorting developments from several angles to suit researchers with different backgrounds. 2）Accepted as a cover paper and featured by the renowned organization _AAAS & EurekAlert!_. 3) Developed a deep learning model using YOLOv7 to automatically detect and recognize _C. elegans_ in microfluidic chips, enabling efficient identification and measurement of multiple phenotypes (_e.g._, size and movement speed).
   * Supervisor: Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
-![Research 5](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/40b69e70-03ab-47d4-86ee-ea6bcf19f834)
+![Research 7](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/a4d77e96-dec3-4fe5-8a35-ed53660d3aad)
 
 * Nanocellulose Paper (nanopaper)-Based Microfluidic Platform (07.2022-Current: Research Assistant)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
