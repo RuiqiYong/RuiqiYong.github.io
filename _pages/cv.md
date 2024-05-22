@@ -279,3 +279,11 @@ Skills
 * Language:
   * Mandarin (Native)
   * English (English-only instruction)
+
+Covers
+======
+* [Microfluidic-Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects](https://enderhangyuan.github.io/publication/20230414), 2023
+![Research 5](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/95a08bea-796b-4ea3-8981-610c2f5ca420)
+
+* [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://enderhangyuan.github.io/publication/20240408), 2024
+![AMI cover](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/ad898bb5-7441-4677-bf2d-d5154125c465)
