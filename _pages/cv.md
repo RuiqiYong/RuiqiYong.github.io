@@ -15,8 +15,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Biomedical Engineering, Michigan State University, 2024-2029 (expected)
-* B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024 (expected)
-* B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024 (expected)
+* B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024
+* B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024
 
 Standardized Scores
 ======
@@ -92,7 +92,7 @@ Granted Patents
 
 Honors
 ======
-* Final Year Project Best Student Poster Award (School-wide top 1), XJTLU, 2023-2024
+* [Final Year Project Best Student Poster Award (School-wide top 1)](https://mp.weixin.qq.com/s/87LUYiy5gI-tBrkvcDEM0g), XJTLU, 2023-2024
 * Outstanding Student (University-wide top 0.1%), Jiangsu Province, 2023-2024
 * Excellent Student Cadre (University-wide top 0.1%), Jiangsu Province, 2022-2023
 * Outstanding Student (School-wide top 5%), XJTLU, 2021-2022
@@ -208,11 +208,9 @@ Service ＆ Leadership
   * [News 1](https://mp.weixin.qq.com/s/RX97FYR33gy_QSlslR1eaQ). Only Chinese version.
   * [News 2](https://mp.weixin.qq.com/s/u3E8eXHMsEi523YWLLsj2Q). Only Chinese version.
   * [News 3](https://mp.weixin.qq.com/s/DBinK5NBRqR5H2MtGO22Ew). Only Chinese version.
-  * [News 4](https://mp.weixin.qq.com/s/X0v3JUFJvkEExykPx77_2Q). Only Chinese version.
-  * [News 5](https://mp.weixin.qq.com/s/7HA1scGuCrFj6gf_dNzk9Q). Only Chinese version.
-  * [News 6](https://mp.weixin.qq.com/s/wDgXB_AaAAY9lPPccgwJ_w). Only Chinese version.
-  * [News 7](https://mp.weixin.qq.com/s/wDgXB_AaAAY9lPPccgwJ_w). Only Chinese version.
-  * [News 8](https://mp.weixin.qq.com/s/ULFPHT0yGx4K7hItsAFSlg). Only Chinese version.
+  * [News 4](https://mp.weixin.qq.com/s/7HA1scGuCrFj6gf_dNzk9Q). Only Chinese version.
+  * [News 5](https://mp.weixin.qq.com/s/wDgXB_AaAAY9lPPccgwJ_w). Only Chinese version.
+  * [News 6](https://mp.weixin.qq.com/s/ULFPHT0yGx4K7hItsAFSlg). Only Chinese version.
 
 * 2021-2022: Project Leader
   * XJTLU entrepreneurship project-Inkless 
