@@ -34,4 +34,5 @@ Education Experience
 * B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024
 ![logo3](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/df7eb22c-64b2-48c7-8145-adddee8d2b26)
 
+[XJTLU Student Story](https://www.xjtlu.edu.cn/zh/news/2024/05/xuezigushiyuanhang)
 ![Research 6](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/5472078f-0be0-47f0-9fc8-8421d6f2a625)
