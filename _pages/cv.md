@@ -216,28 +216,25 @@ Service ＆ Leadership
   * XJTLU entrepreneurship project-Inkless 
   * Duties included: 1) Led the 3D printing entrepreneurial project, including business plan writing and roadshow presentations.
   * [News 1](https://mp.weixin.qq.com/s/-jwLz5vCL3mvdBB3d1VHJg). Bilingual version.
+![下沉广场](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/75bef573-d889-4c1b-b0fa-57d76255c48b)
 
-* 2022-2023:Entrepreneurship Star
-  * XJTLU i-Star selection
-  * Duties included: 1) Outstanding achievement in innovation and entrepreneurship, winning first place in the school competition for two consecutive years. 2) One of ten places in XJTLU.
-  * [News 1](https://mp.weixin.qq.com/s/BmSW1Vp97E-suBTxmcwHpA). Bilingual version.
-
-* 2021-2022:Entrepreneurship Star
+* 2021-2022 & 2022-2023 & 2023-2024:Entrepreneurship Star
   * XJTLU i-Star selection
   * Duties included: 1) Outstanding achievement in innovation and entrepreneurship, winning first place in the school competition for two consecutive years. 2) One of ten places in XJTLU.
   * [News 1](https://mp.weixin.qq.com/s/iyPLAfKzVgRNPapVv8u65g). Bilingual version.
+  * [News 2](https://mp.weixin.qq.com/s/BmSW1Vp97E-suBTxmcwHpA). Bilingual version.
+
+* 2023-2024: Outstanding Student
+  * Jiangsu Province
+  * Duties included: 1) Outstanding academic performance. 2) One of three places in the School of Advanced Technology of XJTLU.
 
 * 2022-2023: Excellent Student Cadre
   * Jiangsu Province
-  * Duties included: 1) Outstanding learning ability and leadership. 2) One of eight places in the XJTLU school, the only place in School of Advanced Technology of XJTLU.
+  * Duties included: 1) Outstanding learning ability and leadership. 2) One of eight places in the XJTLU school, the only place in the School of Advanced Technology of XJTLU.
   * [News 1](https://mp.weixin.qq.com/s/MSUr7w2bkqwey3qHzeJX7g). Bilingual version.
   * [News 2](https://mp.weixin.qq.com/s/iaejnHQc0mp7r3MV-goqvg). Bilingual version.
 
-* 2022-2023: Outstanding Student
-  * XJTLU
-  * Duties included:1) Outstanding academic performance (5% of School of Advanced Technology students).
-
-* 2021-2022: Outstanding Student
+* 2021-2022 & 2022-2023: Outstanding Student
   * XJTLU
   * Duties included:1) Outstanding academic performance (5% of School of Advanced Technology students).
   * [News 1](https://mp.weixin.qq.com/s/e11iqkwPLuuVBI-TVAIGQg). Only Chinese version.
