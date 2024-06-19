@@ -27,6 +27,8 @@ Standardized Scores
 Publications
 ======
 Peer-Reviewed Journal Papers:
+* [Navigating the Uncertainty: the Impact of a Student-Centered Final Year Project Allocation Mechanism on Student Performance](https://enderhangyuan.github.io/publication/20240618) (First author), 2024
+
 * [Microfluidic-Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects](https://enderhangyuan.github.io/publication/20230414) (Cover paper-First author), 2023
 
 * [Deep Learning for Microfluidic-Assisted _Caenorhabditis elegans_ Multi-Parameter Identification Using YOLOv7](https://enderhangyuan.github.io/publication/20230629) (Co-first author), 2023
