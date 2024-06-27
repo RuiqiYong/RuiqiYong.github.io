@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hang Yuan"
+title                    : "Ruiqi Yong"
 title_separator          : "-"
-name                     : &name "Hang Yuan"
-description              : &description "I'm now an undergraduate of Xi 'an Jiaotong-Liverpool University. My major is Mechatronics and robotic systems."
-url                      : https://EnderHangYuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-repository               : "HangYuan/EnderHangYuan.github.io"
+name                     : &name "Ruiqi Yong"
+description              : &description "I'm now an undergraduate of Xi 'an Jiaotong-Liverpool University. My major is Applied Chemistry."
+url                      : https://RuiqiYong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+repository               : "RuiqiYong/RuiqiYong.github.io"
 teaser                   : "number-1.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
