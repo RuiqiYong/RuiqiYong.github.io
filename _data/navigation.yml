@@ -2,13 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Patents"
-    url: /talks/  
-
-  - title: "Teaching"
-    url: /teaching/    
-  
+      
   - title: "Album"
     url: /portfolio/
     
