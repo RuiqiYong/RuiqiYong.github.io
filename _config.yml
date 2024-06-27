@@ -13,7 +13,7 @@ name                     : &name "Hang Yuan"
 description              : &description "I'm now an undergraduate of Xi 'an Jiaotong-Liverpool University. My major is Mechatronics and robotic systems."
 url                      : https://EnderHangYuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "HangYuan/EnderHangYuan.github.io"
-teaser                   : "number-2.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "number-1.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Hang Yuan"
   avatar           : "number-2.png"
-  bio              : "Undergraduate @ MRS, XJTLU"
+  bio              : "Undergraduate @ MRS, XJTLU; Ph.D. student @ BME, MSU"
   location         : "Suzhou,Jiangsu Province,China"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=xaBXiK8AAAAJ"
   email            : "yuanhan1@msu.edu"
