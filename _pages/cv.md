@@ -33,7 +33,7 @@ Peer-Reviewed Journal Papers:
 * [Cellulose Nanostructures as Tunable Substrates for Nanocellulose-Metal Hybrid Flexible Composites](https://ruiqiyong.github.io/publication/20240216), 2024
 
 Peer-Reviewed Conference Papers:
-* [Automated Offline Smartphone-Assisted Microfluidic Paper-Based Analytical Device for Biomarker Detection of Alzheimer's Disease](https://ruiqiyong.github.io/publication/202404301), 2024
+* [Automated Offline Smartphone-Assisted Microfluidic Paper-Based Analytical Device for Biomarker Detection of Alzheimer's Disease](https://ruiqiyong.github.io/publication/202404301)(Second Author), 2024
 
 * [An Automated Microfluidic Paper-Based Analytical Device for Chemiluminescence Immunoassay](https://ruiqiyong.github.io/publication/202404302), 2024
 
@@ -50,8 +50,9 @@ Conference Participation
 Honors
 ======
 * Outstanding Student (School-wide top 5%), XJTLU, 2023 & 2024
-* Entrepreneurship Star (University-wide top 1%), XJTLU, 2022 & 2024
-* Excellent Student Cadre (University-wide top 1%), XJTLU, 2022 & 2023          
+* Entrepreneurship Star (University-wide top 1%), XJTLU, 2023 & 2024
+* Excellent Student Cadre (University-wide top 1%), XJTLU, 2022 & 2023
+* PE Star (University-wide top 1%), XJTLU, 2022    
  
 Awards
 ======
@@ -83,8 +84,6 @@ Three 1𝑠𝑡 prizes in university-level competitions:
 * The 1𝑠𝑡 Prize of [XJTLU Global Entrepreneurial Dream-chasers Competition](https://www.sohu.com/a/591644587_121124035), 2022
 * The 𝑁𝑜. 1 in [China "Internet+" Student Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/) of XJTLU, 2022  
 * The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU, 2021
-![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
-The photograph is from the official website of DJI [RoboMaster](https://www.robomaster.com/en-US) for competition cultural promotion (I am the first one on the left).
                        
 Research Experience
 ======
@@ -94,12 +93,6 @@ Research Experience
   * Supervisor: [Dr. Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song), Xi'an Jiaotong-Liverpool University
 ![Research 2](https://user-images.githubusercontent.com/98693538/203786462-740de5d6-629b-4294-94b4-a10447d13a01.jpg)
 
-* Microfluidic-Assisted _Caenorhabditis elegans_ (_C. elegans_) Sorting (07.2022-06.2023: Research Leader)
-  * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Provided a comprehensive review of the up-to-date microfluidic-assisted _C. elegans_ sorting developments from several angles to suit researchers with different backgrounds. 2）Accepted as a cover paper and featured by the renowned organization _AAAS & EurekAlert!_. 3) Developed a deep learning model using YOLOv7 to automatically detect and recognize _C. elegans_ in microfluidic chips, enabling efficient identification and measurement of multiple phenotypes (_e.g._, size and movement speed).
-  * Supervisor: Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
-![Research 7](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/a4d77e96-dec3-4fe5-8a35-ed53660d3aad)
-
 * Nanocellulose Paper (nanopaper)-Based Microfluidic Platform (07.2022-Current: Research Assistant)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanocellulose paper, optimizing the pattern parameters and saving time. 2）Developed fundamental microfluidic devices and functional nanopaper-based analytical devices (NanoPADs). 3) Performed colorimetric experiments and tested the droplet generation. 4) Detected untreated glial fibrillary acidic protein (GFAP) in human plasma without pretreatment using SERS on NanoPADs, enabling highly sensitive early screening of Alzheimer's disease.
@@ -107,97 +100,42 @@ Research Experience
 ![Research 3](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/40c7287b-3913-4bed-b830-9a1f1d4c4e34)
 ![Research 4](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/9721ca4d-58e4-4545-a110-062f07623877)
 
-* Humanoid Robot and Fatigue Analysis (05.2021-10.2021: Research Assistant)
-  * [Summer Undergraduate Reasearch Fellowships](https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction), Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Developed humanoid robots based on Raspberry Pi or Arduino, and programmed motion sequences. 2）Assisted in the numerical and experimental analysis of a specific-sized spindle model to predict and compare fatigue life under various external loading conditions, validating the accuracy and reliability of the numerical simulation. 
-  * Supervisor: [Dr. Min Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/industrial-design/staff/min-chen), Xi'an Jiaotong-Liverpool University ＆ [Dr. Quan Zhang](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/quan-zhang), Xi'an Jiaotong-Liverpool University
-![Research 1](https://user-images.githubusercontent.com/98693538/203786515-6d50629e-4dc9-41f7-837e-697a85ce1a7c.jpg)
-
-* ROBOMASTER National University Robot Competitions (10.2020-10.2022: Mechanical Engineer & Investment Manager)
-  * Embedded Artificial Intelligence Hardware Universities-Enterprises Joint Key Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Designed mechanical components for an automated sentry robot, including the launching and mobility mechanisms, enabling the launch of 17mm projectiles and rapid disassembly from the track. 2）Fabricated robots using appropriate materials (_e.g._, fiberglass, carbon fiber, resin, and nylon). 3) Authored business proposals and secured enterprise sponsorships to support team funding and operations. 
-  * Supervisor: [Prof. Cezhou Zhao (Cherish forever)](https://scholar.google.com/citations?user=Tl6gXWgAAAAJ&hl=zh-CN), Xi'an Jiaotong-Liverpool University & [Dr. Chun Zhao](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/chun-zhao), Xi'an Jiaotong-Liverpool University
-
-* Self-Adaptive Robot Hands (01.2018-08.2019: Visiting Student)
-  * Key Laboratory for Advanced Materials Processing Technology, Tsinghua University
-  * Duties included: 1）Developed a hedgehog-inspired pin-array robot hand with multiple magnetic pins for adaptive grasping. 2）Developed a self-adaptive robot hand with controllable gripping force and a magnetic-driven robot hand for parallel gripping, enabling quickly grasping objects with diverse shapes.
-  * Supervisor: [Dr. Wenzeng Zhang](https://www.me.tsinghua.edu.cn/en/info/1090/1272.htm), Tsinghua University
-
 Service ＆ Leadership
 ======
 * 2022-2023: Vice President & Activities Minister
   * XJTLU Sagittarius Astronomy Club
   * Duties included: 1) Led and organized successful astronomical observation activities, receiving the “Best Cooperation Club” award. 2) Lectured on astronomy to high school students from XJTLU-affiliated school.
 
-* 2022-2023: Project Leader
-  * XJTLU entrepreneurship project-ESGrow 
-  * Duties included: 1) Established Yuanhe Technology (Changzhou) Co., Ltd. with the support of Changzhou Wujin District Government. 2) Provided smart solutions for urban farming, promoting community energy efficiency based on ESG principles.
-  * [News 1](https://mp.weixin.qq.com/s/RX97FYR33gy_QSlslR1eaQ). Only Chinese version.
-  * [News 2](https://mp.weixin.qq.com/s/u3E8eXHMsEi523YWLLsj2Q). Only Chinese version.
-  * [News 3](https://mp.weixin.qq.com/s/DBinK5NBRqR5H2MtGO22Ew). Only Chinese version.
-  * [News 4](https://mp.weixin.qq.com/s/7HA1scGuCrFj6gf_dNzk9Q). Only Chinese version.
-  * [News 5](https://mp.weixin.qq.com/s/wDgXB_AaAAY9lPPccgwJ_w). Only Chinese version.
-  * [News 6](https://mp.weixin.qq.com/s/ULFPHT0yGx4K7hItsAFSlg). Only Chinese version.
-
-* 2021-2022: Project Leader
-  * XJTLU entrepreneurship project-Inkless 
-  * Duties included: 1) Led the 3D printing entrepreneurial project, including business plan writing and roadshow presentations.
-  * [News 1](https://mp.weixin.qq.com/s/-jwLz5vCL3mvdBB3d1VHJg). Bilingual version.
-![下沉广场](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/75bef573-d889-4c1b-b0fa-57d76255c48b)
-
 * 2021-2022 & 2022-2023 & 2023-2024:Entrepreneurship Star
   * XJTLU i-Star selection
   * Duties included: 1) Outstanding achievement in innovation and entrepreneurship, winning first place in the school competition for two consecutive years. 2) One of ten places in XJTLU.
   * [News 1](https://mp.weixin.qq.com/s/iyPLAfKzVgRNPapVv8u65g). Bilingual version.
   * [News 2](https://mp.weixin.qq.com/s/BmSW1Vp97E-suBTxmcwHpA). Bilingual version.
-
-* 2023-2024: Outstanding Student
-  * Jiangsu Province
-  * Duties included: 1) Outstanding academic performance. 2) One of three places in the School of Advanced Technology of XJTLU.
-
-* 2022-2023: Excellent Student Cadre
-  * Jiangsu Province
-  * Duties included: 1) Outstanding learning ability and leadership. 2) One of eight places in the XJTLU school, the only place in the School of Advanced Technology of XJTLU.
-  * [News 1](https://mp.weixin.qq.com/s/MSUr7w2bkqwey3qHzeJX7g). Bilingual version.
-  * [News 2](https://mp.weixin.qq.com/s/iaejnHQc0mp7r3MV-goqvg). Bilingual version.
+  * [News 3](https://mp.weixin.qq.com/s/DHjxM-LZK1d6xDiX8OLL-g). Bilingual version.
 
 * 2021-2022 & 2022-2023: Outstanding Student
   * XJTLU
   * Duties included:1) Outstanding academic performance (5% of School of Advanced Technology students).
-  * [News 1](https://mp.weixin.qq.com/s/e11iqkwPLuuVBI-TVAIGQg). Only Chinese version.
-  * [News 2](https://mp.weixin.qq.com/s/t_SKl_C6mQ08AK4HPwznVw). Only Chinese version.
 
 * 2021-2022: Excellent Student Cadre
   * XJTLU
   * Duties included: 1) Manage and lead a number of student tasks and activities. 2) Outstanding contributions to leadership and volunteerism.
 
-* 2020-2021: League branch secretary, Outstanding Class Cadre
-  * XJTLU
-  * Duties included: 1) Served as the league branch secretary and have excellent performance in class work.
-
-* 2022-2023: Outstanding Class Buddy
+* 2022-2023: Outstanding Academic Buddy
   * XJTLU
   * Duties included: 1) Worked with the university and guided students in the lower grades
-
-* Winter, 2020: The team leader, Pioneer Award
-  * 2020 I-Link of XJTLU 
-  * Duties included: 1) Led the team to take a lecture in Alma mater and won the second prize.
-
-* Winter, 2020: Excellent model
-  * 2020 Military training of XJTLU
-  * Duties included: 1) Outstanding performance in military training.
 
 Skills
 ======
 * Computer Skills＆Software:
-  * _Programming_: C, Arduino, MATLAB
-  * _CAD/CAE_: SolidWorks, AutoCAD, ANSYS (workbench), Rhino
-  * _Graphic design_: Adobe Illustrator, Adobe Premiere, Adobe Photoshop, KeyShot, Origin
+  * _Programming_: R
+  * _CAD/CAE_: SolidWorks, AutoCAD, Cinema 4D, Rhinoceros 3D
+  * _Graphic design_: Adobe Illustrator, Adobe Premiere Pro, Adobe Photoshop, KeyShot, Origin, ChemDraw, Cytoscape, MestReNova 
 * Experimental Skills:
-  * _Fabrication_: 3D printing, wax printing, laser cutting
+  * _Fabrication_: 3D printing, laser cutting
   * _Immunoassays_: Enzyme-linked immunosorbent assay (ELISA), Lateral flow assay (LFA)
-  * _Chemical synthesis_: AuNPs, AgNPs, Bottlebrush elastomers
-  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography)
+  * _Chemical synthesis_: AuNPs, AgNPs
+  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography), [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy), [Fluorescence spectroscopy](https://en.wikipedia.org/wiki/Fluorescence_spectroscopy), [NMR](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance), [MS](https://en.wikipedia.org/wiki/Mass_spectrometry), [CV](https://en.wikipedia.org/wiki/Cyclic_voltammetry)
 * Language:
   * Mandarin (Native)
   * English (English-only instruction)
