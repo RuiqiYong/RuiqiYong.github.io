@@ -8,99 +8,50 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download the CV of Hang Yuan here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV_Hang%20Yuan.pdf)
-
-[Download additional information for more details](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/Additional%20Information-Hang.Yuan.pdf)
+[Download the CV of Ruiqi Yong here]()
 
 Education
 ======
-* Ph.D. in Biomedical Engineering, Michigan State University, 2024-2029 (expected)
-* B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024
-* B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024
-
-Standardized Scores
-======
-* TOEFL iBT Test: 100/120
-* Duolingo English Test: 140/160 (Literacy: 140; Conversation: 125; Comprehension: 155; Production: 100)
-* GRE General Test: 327 (Verbal: 160, 84th Percentile; Quantitative: 167, 83rd Percentile) + 4.5 (Analytical Writing, 81st Percentile)
+* BSc in Applied Chemistry, Xi’an Jiaotong-Liverpool University, 2021-2025 (expected) 
+* BSc in Applied Chemistry, University of Liverpool, 2021-2025 (expected)
 
 Publications
 ======
 Peer-Reviewed Journal Papers:
-* [Navigating the Uncertainty: the Impact of a Student-Centered Final Year Project Allocation Mechanism on Student Performance](https://enderhangyuan.github.io/publication/20240618) (First author), 2024
+* [Navigating the Uncertainty: the Impact of a Student-Centered Final Year Project Allocation Mechanism on Student Performance](https://ruiqiyong.github.io/publication/20240618) , 2024
 
-* [Microfluidic-Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects](https://enderhangyuan.github.io/publication/20230414) (Cover paper-First author), 2023
+* [Deep Learning for Microfluidic-Assisted _Caenorhabditis elegans_ Multi-Parameter Identification Using YOLOv7](https://ruiqiyong.github.io/publication/20230629) , 2023
 
-* [Deep Learning for Microfluidic-Assisted _Caenorhabditis elegans_ Multi-Parameter Identification Using YOLOv7](https://enderhangyuan.github.io/publication/20230629) (Co-first author), 2023
+* [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://ruiqiyong.github.io/publication/20240408) (Cover paper), 2024
 
-* [Research Status and Prospects of Adaptive Robotic Hands (CN)](https://enderhangyuan.github.io/publication/20190410) (First author), 2019
+* [A SERS Nanocellulose-Paper-Based Analytical Device for Ultrasensitive Detection of Alzheimer's Disease](https://ruiqiyong.github.io/publication/20240304), 2024
 
-* [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://enderhangyuan.github.io/publication/20240408) (Cover paper-Second author), 2024
+* [Microembossing: A Convenient Process for Fabricating Microchannels on Nanocellulose Paper-Based Microfluidics](https://ruiqiyong.github.io/publication/20231006), 2023
 
-* [A SERS Nanocellulose-Paper-Based Analytical Device for Ultrasensitive Detection of Alzheimer's Disease](https://enderhangyuan.github.io/publication/20240304) (Second author), 2024
+* [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://ruiqiyong.github.io/publication/20230303), 2023
 
-* [Microembossing: A Convenient Process for Fabricating Microchannels on Nanocellulose Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20231006) (Second author), 2023
-
-* [Facile Microembossing Process for Microchannel Fabrication for Nanocellulose-Paper-Based Microfluidics](https://enderhangyuan.github.io/publication/20230124) (Second author), 2023
-
-* [The Impact of Short Videos on Student Performance in an Online-Flipped College Engineering Course](https://enderhangyuan.github.io/publication/20220922) (Second author), 2022
-
-* [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://enderhangyuan.github.io/publication/20230303), 2023
-
-* [Mechanical Characterization of Multifunctional Metal-Coated Polymer Lattice Structures](https://enderhangyuan.github.io/publication/20240203), 2024
-
-* [Cellulose Nanostructures as Tunable Substrates for Nanocellulose-Metal Hybrid Flexible Composites](https://enderhangyuan.github.io/publication/20240216), 2024
-
-* [Automatic offline-capable smartphone paper-based microfluidic device for efficient biomarker detection of Alzheimer's disease](https://enderhangyuan.github.io/publication/20240406), 2024
+* [Cellulose Nanostructures as Tunable Substrates for Nanocellulose-Metal Hybrid Flexible Composites](https://ruiqiyong.github.io/publication/20240216), 2024
 
 Peer-Reviewed Conference Papers:
-* [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811) (First author), 2019
+* [Automated Offline Smartphone-Assisted Microfluidic Paper-Based Analytical Device for Biomarker Detection of Alzheimer's Disease](https://ruiqiyong.github.io/publication/202404301), 2024
 
-* [Automated Offline Smartphone-Assisted Microfluidic Paper-Based Analytical Device for Biomarker Detection of Alzheimer's Disease](https://enderhangyuan.github.io/publication/202404301), 2024
+* [An Automated Microfluidic Paper-Based Analytical Device for Chemiluminescence Immunoassay](https://ruiqiyong.github.io/publication/202404302), 2024
 
-* [An Automated Microfluidic Paper-Based Analytical Device for Chemiluminescence Immunoassay](https://enderhangyuan.github.io/publication/202404302), 2024
-
-* [Machine Learning-Based Fatigue Life Evaluation of the Pump Spindle Assembly with Parametrized Geometry](https://enderhangyuan.github.io/publication/20231029), 2023
-
-Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0000-0002-8079-7413) or [Google Scholar](https://scholar.google.com/citations?user=xaBXiK8AAAAJ&hl=zh-CN) for more information.
+Please refer to [Google Scholar](https://scholar.google.com/citations?user=XYBjifMAAAAJ&hl=zh-CN) for more information.
 
 Conference Participation
 ======
-* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://enderhangyuan.github.io/publication/202305101) (Poster-First author), 2023
+* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://enderhangyuan.github.io/publication/202305101) (Poster-Co-first author), 2023
 
-* [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease](https://enderhangyuan.github.io/publication/202305102) (Poster-Second author), 2023
-
-* [Nanocellulose-Paper-Based Analytical Devices with MOFs/Heterojunction Structures for Multiplex SERS Detection](https://enderhangyuan.github.io/publication/20240506) (Poster-Second author), 2024
+* [Nanocellulose-Paper-Based Analytical Devices with MOFs/Heterojunction Structures for Multiplex SERS Detection](https://enderhangyuan.github.io/publication/20240506) (Poster-First author), 2024
 
 * [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples](https://enderhangyuan.github.io/publication/20230531) (Oral Presentation), 2023
 
-* [An Offline Deep Learning-Assisted Automated Paper-Based Microfluidic Platform](https://enderhangyuan.github.io/publication/20230708) (Poster), 2023
-
-Granted Patents
-======
-* [A Smartphone-Based Automated Paper-Based Microfluidic System (CN)](https://enderhangyuan.github.io/talks/2022-12-13-patent-4), 2024 (Invention patent)
-
-* [A Cluster-Tube Self-Adaptive Robot Hand with Controllable Force for Rapid Grasping(CN)](https://enderhangyuan.github.io/talks/2019-10-25-patent-3), 2023 (Invention patent)
-
-* [A Parallel and Magnetic-Driven Robot Hand with Linkage Mechanisms(CN)](https://enderhangyuan.github.io/talks/2019-10-01-patent-2), 2023 (Invention patent)
-
-* [A Hedgehog-Inspired Magnetic-Driven Self-Adaptive Pin-Array Robot Hand(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2023 (Invention patent)
-
-* [A Cluster-Tube Self-Adaptive Robot Hand with Controllable Force for Rapid Grasping(CN)](https://enderhangyuan.github.io/talks/2019-10-25-patent-3), 2019 (Utility model patent)
-
-* [A Parallel and Magnetic-Driven Robot Hand with Linkage Mechanisms(CN)](https://enderhangyuan.github.io/talks/2019-10-01-patent-2), 2019 (Utility model patent)
-
-* [A Hedgehog-Inspired Magnetic-Driven Self-Adaptive Pin-Array Robot Hand(CN)](https://enderhangyuan.github.io/talks/2019-08-02-patent-1), 2019 (Utility model patent)
-
 Honors
 ======
-* [Final Year Project Best Student Poster Award (School-wide top 1)](https://mp.weixin.qq.com/s/87LUYiy5gI-tBrkvcDEM0g), XJTLU, 2023-2024
-* Outstanding Student (University-wide top 0.1%), Jiangsu Province, 2023-2024
-* Excellent Student Cadre (University-wide top 0.1%), Jiangsu Province, 2022-2023
-* Outstanding Student (School-wide top 5%), XJTLU, 2021-2022
-* Entrepreneurship Star (University-wide top 1%), XJTLU, 2021-2022 & 2022-2023  
-* Excellent Student Cadre & Outstanding Class Cadre (University-wide top 1%), XJTLU, 2020-2021
-![Best Student Poster Award](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/75bce9b1-88ca-4c71-a5f1-f6ead8b407e5)                
+* Outstanding Student (School-wide top 5%), XJTLU, 2023 & 2024
+* Entrepreneurship Star (University-wide top 1%), XJTLU, 2022 & 2024
+* Excellent Student Cadre (University-wide top 1%), XJTLU, 2022 & 2023          
  
 Awards
 ======
@@ -172,38 +123,12 @@ Research Experience
   * Duties included: 1）Developed a hedgehog-inspired pin-array robot hand with multiple magnetic pins for adaptive grasping. 2）Developed a self-adaptive robot hand with controllable gripping force and a magnetic-driven robot hand for parallel gripping, enabling quickly grasping objects with diverse shapes.
   * Supervisor: [Dr. Wenzeng Zhang](https://www.me.tsinghua.edu.cn/en/info/1090/1272.htm), Tsinghua University
 
-Internship Experiences
-======
-* Summer, 2021: Internship 
-  * Suzhou Non-Fish Culture Communication Co., Ltd. 
-  * Duties included: 1) Assisted in project planning for industrial robots, AGVs, and AR/VR/MR projects. 2) Collaborated with suppliers, and developed work memos and project proposals.
-  * [XJTLU did an interview with me and my boss](https://mp.weixin.qq.com/s/7AOMWfm8usHHfbpv7ktqxg). Only Chinese version.
-
-Teaching Activities
-======
-* [Undergraduate optional course student lecturer](https://enderhangyuan.github.io/teaching/2021-Student-lecturer), 2021
-
-* [Middle school & high school optional course student mentor](https://enderhangyuan.github.io/teaching/2021-Student-Mentor), 2021
-
-* [Undergraduate optional course student lecturer](https://enderhangyuan.github.io/teaching/2020-Student-lecturer), 2020
-
 Service ＆ Leadership
 ======
-* 2021-2022: President & Liaison Minister
+* 2022-2023: Vice President & Activities Minister
   * XJTLU Sagittarius Astronomy Club
   * Duties included: 1) Led and organized successful astronomical observation activities, receiving the “Best Cooperation Club” award. 2) Lectured on astronomy to high school students from XJTLU-affiliated school.
 
-* 2021-2022: Vice President
-  * XJTLU Tea Club
-  * Duties included: 1) Led and organized multiple tea ceremony and incense ceremony performances. 2) Lectured on tea culture to middle school students from XJTLU-affiliated school.
-
-* 2021-2022: Liaison Minister
-  * XJTLU G-Master Robot Club
-  * Duties included: 1) Lectured on making combat robots to the undergraduate and organized competitions.
-
-* 2022-2023: Corporation & Executive Director
-  * Yuanhe Technology (Changzhou) Co., Ltd.
-  
 * 2022-2023: Project Leader
   * XJTLU entrepreneurship project-ESGrow 
   * Duties included: 1) Established Yuanhe Technology (Changzhou) Co., Ltd. with the support of Changzhou Wujin District Government. 2) Provided smart solutions for urban farming, promoting community energy efficiency based on ESG principles.
@@ -279,8 +204,5 @@ Skills
 
 Covers
 ======
-* [Microfluidic-Assisted _Caenorhabditis elegans_ Sorting: Current Status and Future Prospects](https://enderhangyuan.github.io/publication/20230414), 2023
-![Research 5](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/95a08bea-796b-4ea3-8981-610c2f5ca420)
-
 * [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://enderhangyuan.github.io/publication/20240408), 2024
 ![AMI cover](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/ad898bb5-7441-4677-bf2d-d5154125c465)
