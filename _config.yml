@@ -79,14 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hang Yuan"
+  name             : "Ruiqi Yong"
   avatar           : "number-1.png"
-  bio              : "Undergraduate @ MRS, XJTLU; Ph.D. student @ BME, MSU"
+  bio              : "Undergraduate @ AC, XJTLU"
   location         : "Suzhou,Jiangsu Province,China"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=xaBXiK8AAAAJ"
-  email            : "yuanhan1@msu.edu"
-  github           : "EnderHangYuan"
-  linkedin         : "hang-yuan-ender0920/"
+  googlescholar    : "https://scholar.google.com/citations?user=XYBjifMAAAAJ&hl=zh-CN"
+  email            : "ruiqi.yong1118@gmail.com"
+  github           : "RuiqiYong"
 
 # Reading Files
 include:
