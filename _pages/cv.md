@@ -70,12 +70,12 @@ Research Experience
 ======
 * Centrifugation-Assisted Lateral Flow Assay (CLFA) Platform (06.2022-Current: Research Leader)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Developed a CLFA platform that offers adjustable rotation speeds and enables smartphone-based quantitative bioassay detection, displaying results on the custom-designed UI and mobile application. 3) Developed a bio-inspired microfluidic channel to enhance the sensitivity of LFA in bioassays.
+  * Duties included: 1）Developed a CLFA platform with adjustable rotation speeds, enabling smartphone-based quantitative bioassay detection and overcoming limitations of traditional LFAs. 2) Developed a bio-inspired microfluidic channel to enhance the bioassay sensitivity of LFAs.
   * Supervisor: [Dr. Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song), Xi'an Jiaotong-Liverpool University
 
 * Nanocellulose Paper (nanopaper)-Based Microfluidic Platform (07.2022-Current: Research Assistant)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanopaper, optimizing the pattern parameters and saving time. 2）Developed fundamental microfluidic devices and functional nanopaper-based analytical devices (NanoPADs). 3) Performed colorimetric experiments and tested the droplet generation. 4) Detected untreated glial fibrillary acidic protein (GFAP) in human plasma without pretreatment using SERS on NanoPADs, enabling highly sensitive early screening of Alzheimer's disease.
+  * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanopaper, optimizing the pattern parameters and saving time. 2) Detected untreated glial fibrillary acidic protein (GFAP) in human plasma without pretreatment using SERS on NanoPADs, enabling highly sensitive early screening of Alzheimer's disease.
   * Supervisor: Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
 
 Service ＆ Leadership
@@ -111,15 +111,16 @@ Skills
 ======
 * Computer Skills＆Software:
   * _Programming_: R
-  * _CAD/CAE_: SolidWorks, AutoCAD, Cinema 4D, Rhinoceros 3D
-  * _Graphic design_: Adobe Illustrator, Adobe Premiere Pro, Adobe Photoshop, KeyShot, ChemDraw
+  * _CAD/CAE_: SolidWorks, Cinema 4D, Rhinoceros 3D, AutoCAD, KeyShot
+  * _Graphic design_: ChemDraw, Adobe Illustrator, Adobe Premiere Pro, Adobe Photoshop
   * _Data analysis_: Origin, MestReNova, Cytoscape
 * Experimental Skills:
   * _Fabrication_: 3D printing, laser cutting
   * _Immunoassays_: Enzyme-linked immunosorbent assay (ELISA), Lateral flow assay (LFA)
+  * _Molecular biology techniques_: Cell culture, Gel electrophoresis, qPCR
   * _Chemical synthesis_: AuNPs, AgNPs
-  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography), [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy), [Fluorescence spectroscopy](https://en.wikipedia.org/wiki/Fluorescence_spectroscopy), [NMR](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance), [MS](https://en.wikipedia.org/wiki/Mass_spectrometry), [CV](https://en.wikipedia.org/wiki/Cyclic_voltammetry)
-  * _Separation and analysis techniques_: [HPLC](https://en.wikipedia.org/wiki/High-performance_liquid_chromatography), [GC](https://en.wikipedia.org/wiki/Gas_chromatography), [TLC](https://en.wikipedia.org/wiki/Thin-layer_chromatography), [Flash column chromatography](https://en.wikipedia.org/wiki/Column_chromatography), Centrifugal separation
+  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [NMR](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance), [MS](https://en.wikipedia.org/wiki/Mass_spectrometry), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography), [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy), [Fluorescence spectroscopy](https://en.wikipedia.org/wiki/Fluorescence_spectroscopy), [Cyclic voltammetry](https://en.wikipedia.org/wiki/Cyclic_voltammetry)
+  * _Separation and analysis techniques_: [HPLC](https://en.wikipedia.org/wiki/High-performance_liquid_chromatography), [GC](https://en.wikipedia.org/wiki/Gas_chromatography), [TLC](https://en.wikipedia.org/wiki/Thin-layer_chromatography), [Flash column chromatography](https://en.wikipedia.org/wiki/Column_chromatography)
 * Language:
   * Mandarin (Native)
   * English (English-only instruction)
