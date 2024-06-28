@@ -18,17 +18,15 @@ Education
 Publications
 ======
 Peer-Reviewed Journal Papers:
-* [Navigating the Uncertainty: the Impact of a Student-Centered Final Year Project Allocation Mechanism on Student Performance](https://ruiqiyong.github.io/publication/20240618) , 2024
-
-* [Deep Learning for Microfluidic-Assisted _Caenorhabditis elegans_ Multi-Parameter Identification Using YOLOv7](https://ruiqiyong.github.io/publication/20230629) , 2023
-
-* [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://ruiqiyong.github.io/publication/20240408) (Cover paper), 2024
-
 * [A SERS Nanocellulose-Paper-Based Analytical Device for Ultrasensitive Detection of Alzheimer's Disease](https://ruiqiyong.github.io/publication/20240304), 2024
 
 * [Microembossing: A Convenient Process for Fabricating Microchannels on Nanocellulose Paper-Based Microfluidics](https://ruiqiyong.github.io/publication/20231006), 2023
 
-* [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://ruiqiyong.github.io/publication/20230303), 2023
+* [Deep Learning for Microfluidic-Assisted _Caenorhabditis elegans_ Multi-Parameter Identification Using YOLOv7](https://ruiqiyong.github.io/publication/20230629) , 2023
+
+* [Navigating the Uncertainty: the Impact of a Student-Centered Final Year Project Allocation Mechanism on Student Performance](https://ruiqiyong.github.io/publication/20240618) , 2024
+
+* [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://ruiqiyong.github.io/publication/20240408) (Cover paper), 2024
 
 * [Cellulose Nanostructures as Tunable Substrates for Nanocellulose-Metal Hybrid Flexible Composites](https://ruiqiyong.github.io/publication/20240216), 2024
 
@@ -49,7 +47,7 @@ Conference Participation
 
 Honors
 ======
-* Outstanding Student (School-wide top 5%), XJTLU, 2023 & 2024
+* Outstanding Student (School-wide top 5%), XJTLU, 2024
 * Entrepreneurship Star (University-wide top 1%), XJTLU, 2023 & 2024
 * Excellent Student Cadre (University-wide top 1%), XJTLU, 2022 & 2023
 * PE Star (University-wide top 1%), XJTLU, 2022    
@@ -60,6 +58,7 @@ National-level competitions:
 * The 2𝑛𝑑 Prize of the [3𝑟𝑑 Yangtze River Delta JITRI Innovation Competition](https://mp.weixin.qq.com/s/JrIwJ4mau7RUwZTksQfefg), 2023
 
 Provincial-level competitions:
+* The 3𝑟𝑑 Prize of the 8th "Internet+" Student Innovation and Entrepreneurship Competition (Jiangsu Province), 2022
 * The 3𝑟𝑑 Prize of 2022 [Changzhou "International Intelligent Manufacturing" Innovation and Entrepreneurship Competition Robotics and Intelligent Hardware Challenge](http://www.changzhou.gov.cn/ns_news/795165231605032), 2022
 * The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division _(6/77)_, 2022
 * The Excellence Award and the Best Popularity Award of [Yangtze River Delta (YRD) Intellectual Property Innovation and Application Competition](http://www.xjtlu-ttc.com/ip-competition), 2022
@@ -69,15 +68,15 @@ University-level competitions:
                        
 Research Experience
 ======
-* Centrifugation-Assisted Lateral Flow Assay (CLFA) Platform (01.2022-Current: Research Leader)
+* Centrifugation-Assisted Lateral Flow Assay (CLFA) Platform (06.2022-Current: Research Leader)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Addressed the limited sensitivity and uncontrollable incubation time of traditional LFA. 2）Developed a CLFA platform that offers adjustable rotation speeds and enables smartphone-based quantitative bioassay detection, displaying results on the custom-designed UI and mobile application. 3) Developed a bio-inspired microfluidic channel to enhance the sensitivity of LFA in bioassays.
+  * Duties included: 1）Developed a CLFA platform that offers adjustable rotation speeds and enables smartphone-based quantitative bioassay detection, displaying results on the custom-designed UI and mobile application. 3) Developed a bio-inspired microfluidic channel to enhance the sensitivity of LFA in bioassays.
   * Supervisor: [Dr. Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song), Xi'an Jiaotong-Liverpool University
 
 * Nanocellulose Paper (nanopaper)-Based Microfluidic Platform (07.2022-Current: Research Assistant)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanocellulose paper, optimizing the pattern parameters and saving time. 2）Developed fundamental microfluidic devices and functional nanopaper-based analytical devices (NanoPADs). 3) Performed colorimetric experiments and tested the droplet generation. 4) Detected untreated glial fibrillary acidic protein (GFAP) in human plasma without pretreatment using SERS on NanoPADs, enabling highly sensitive early screening of Alzheimer's disease.
-  * Supervisor: [Prof. Xinyu Liu](https://www.mie.utoronto.ca/faculty_staff/xinyu-liu/), University of Toronto & Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
+  * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanopaper, optimizing the pattern parameters and saving time. 2）Developed fundamental microfluidic devices and functional nanopaper-based analytical devices (NanoPADs). 3) Performed colorimetric experiments and tested the droplet generation. 4) Detected untreated glial fibrillary acidic protein (GFAP) in human plasma without pretreatment using SERS on NanoPADs, enabling highly sensitive early screening of Alzheimer's disease.
+  * Supervisor: Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
 
 Service ＆ Leadership
 ======
@@ -85,7 +84,11 @@ Service ＆ Leadership
   * XJTLU Sagittarius Astronomy Club
   * Duties included: 1) Led and organized successful astronomical observation activities, receiving the “Best Cooperation Club” award. 2) Lectured on astronomy to high school students from XJTLU-affiliated school.
 
-* 2021-2022 & 2022-2023 & 2023-2024:Entrepreneurship Star
+* 2022-2023: Vice President
+  * XJTLU Cheerleading Club
+  * Duties included: 1) Led and organized successful cheerleading activities on behalf of XJTLU.
+
+* 2022-2023 & 2023-2024:Entrepreneurship Star
   * XJTLU i-Star selection
   * Duties included: 1) Outstanding achievement in innovation and entrepreneurship, winning first place in the school competition for two consecutive years. 2) One of ten places in XJTLU.
   * [News 1](https://mp.weixin.qq.com/s/iyPLAfKzVgRNPapVv8u65g). Bilingual version.
@@ -94,7 +97,7 @@ Service ＆ Leadership
 
 * 2021-2022 & 2022-2023: Outstanding Student
   * XJTLU
-  * Duties included:1) Outstanding academic performance (5% of School of Advanced Technology students).
+  * Duties included:1) Outstanding academic performance (5% of School of Science students).
 
 * 2021-2022: Excellent Student Cadre
   * XJTLU
