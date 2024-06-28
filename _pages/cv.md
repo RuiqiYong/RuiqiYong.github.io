@@ -109,13 +109,14 @@ Skills
 * Computer Skills＆Software:
   * _Programming_: R
   * _CAD/CAE_: SolidWorks, AutoCAD, Cinema 4D, Rhinoceros 3D
-  * _Graphic design_: Adobe Illustrator, Adobe Premiere Pro, Adobe Photoshop, KeyShot, Origin, ChemDraw, Cytoscape, MestReNova 
+  * _Graphic design_: Adobe Illustrator, Adobe Premiere Pro, Adobe Photoshop, KeyShot, ChemDraw
+  * _Data analysis_: Origin, MestReNova, Cytoscape
 * Experimental Skills:
   * _Fabrication_: 3D printing, laser cutting
   * _Immunoassays_: Enzyme-linked immunosorbent assay (ELISA), Lateral flow assay (LFA)
   * _Chemical synthesis_: AuNPs, AgNPs
   * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography), [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy), [Fluorescence spectroscopy](https://en.wikipedia.org/wiki/Fluorescence_spectroscopy), [NMR](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance), [MS](https://en.wikipedia.org/wiki/Mass_spectrometry), [CV](https://en.wikipedia.org/wiki/Cyclic_voltammetry)
-  * _Separation and analysis techniques_: [HPLC](https://en.wikipedia.org/wiki/High-performance_liquid_chromatography), GC, TLC, Flash column chromatography, Centrifugal separation
+  * _Separation and analysis techniques_: [HPLC](https://en.wikipedia.org/wiki/High-performance_liquid_chromatography), [GC](https://en.wikipedia.org/wiki/Gas_chromatography), [TLC](https://en.wikipedia.org/wiki/Thin-layer_chromatography), [Flash column chromatography](https://en.wikipedia.org/wiki/Column_chromatography), Centrifugal separation
 * Language:
   * Mandarin (Native)
   * English (English-only instruction)
