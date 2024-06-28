@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Seeking a Ph.D. position! I am Ruiqi Yong."
+title: "Seeking a Ph.D. position! I am Ruiqi Yong (雍睿琪)."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
