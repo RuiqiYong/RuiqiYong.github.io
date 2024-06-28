@@ -31,7 +31,7 @@ Peer-Reviewed Journal Papers:
 * [Cellulose Nanostructures as Tunable Substrates for Nanocellulose-Metal Hybrid Flexible Composites](https://ruiqiyong.github.io/publication/20240216), 2024
 
 Peer-Reviewed Conference Papers:
-* [Automated Offline Smartphone-Assisted Microfluidic Paper-Based Analytical Device for Biomarker Detection of Alzheimer's Disease](https://ruiqiyong.github.io/publication/202404301)(Second Author), 2024
+* [Automated Offline Smartphone-Assisted Microfluidic Paper-Based Analytical Device for Biomarker Detection of Alzheimer's Disease](https://ruiqiyong.github.io/publication/202404301) (Second Author), 2024
 
 * [An Automated Microfluidic Paper-Based Analytical Device for Chemiluminescence Immunoassay](https://ruiqiyong.github.io/publication/202404302), 2024
 
@@ -95,11 +95,11 @@ Service ＆ Leadership
   * [News 2](https://mp.weixin.qq.com/s/BmSW1Vp97E-suBTxmcwHpA). Bilingual version.
   * [News 3](https://mp.weixin.qq.com/s/DHjxM-LZK1d6xDiX8OLL-g). Bilingual version.
 
-* 2021-2022 & 2022-2023: Outstanding Student
+* 2023-2024: Outstanding Student
   * XJTLU
   * Duties included:1) Outstanding academic performance (5% of School of Science students).
 
-* 2021-2022: Excellent Student Cadre
+* 2021-2022 & 2022-2023: Excellent Student Cadre
   * XJTLU
   * Duties included: 1) Manage and lead a number of student tasks and activities. 2) Outstanding contributions to leadership and volunteerism.
 
