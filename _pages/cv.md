@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download the CV of Ruiqi Yong here]()
+[Download the Resume of Ruiqi Yong here](https://github.com/RuiqiYong/RuiqiYong.github.io/blob/master/files/Resume_Ruiqi%20Yong.pdf)
 
 Education
 ======
@@ -70,12 +70,12 @@ Research Experience
 ======
 * Centrifugation-Assisted Lateral Flow Assay (CLFA) Platform (06.2022-Current: Research Leader)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Developed a CLFA platform with adjustable rotation speeds, enabling smartphone-based quantitative bioassay detection and overcoming limitations of traditional LFAs. 2) Developed a bio-inspired microfluidic channel to enhance the bioassay sensitivity of LFAs.
+  * Duties included: 1）Developed a CLFA platform with adjustable rotation speeds, enabling smartphone-based quantitative bioassay and active sample flow control. 2) Developed a bio-inspired microfluidic channel to enhance the bioassay sensitivity of LFAs.
   * Supervisor: [Dr. Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song), Xi'an Jiaotong-Liverpool University
 
 * Nanocellulose Paper (nanopaper)-Based Microfluidic Platform (07.2022-Current: Research Assistant)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanopaper, optimizing the pattern parameters and saving time. 2) Detected untreated glial fibrillary acidic protein (GFAP) in human plasma without pretreatment using SERS on NanoPADs, enabling highly sensitive early screening of Alzheimer's disease.
+  * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanopaper, optimizing the pattern parameters and saving time. 2) Detected glial fibrillary acidic protein (GFAP) in artificial plasma using SERS on NanoPADs, enabling high-sensitive biomarker detection of Alzheimer's disease.
   * Supervisor: Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
 
 Service ＆ Leadership
