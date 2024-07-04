@@ -70,13 +70,23 @@ Research Experience
 ======
 * Centrifugation-Assisted Lateral Flow Assay (CLFA) Platform (06.2022-Current: Research Leader)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Developed a CLFA platform with adjustable rotation speeds, enabling smartphone-based quantitative bioassay and active sample flow control. 2) Developed a bio-inspired microfluidic channel to enhance the bioassay sensitivity of LFAs.
+  * Duties included: 1) Developed a CLFA platform with adjustable rotation speeds, enabling smartphone-based quantitative bioassay and active sample flow control. 2) Developed a bio-inspired microfluidic channel to enhance the bioassay sensitivity of LFAs.
   * Supervisor: [Dr. Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song), Xi'an Jiaotong-Liverpool University
 
 * Nanocellulose Paper (nanopaper)-Based Microfluidic Platform (07.2022-Current: Research Assistant)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanopaper, optimizing the pattern parameters and saving time. 2) Detected glial fibrillary acidic protein (GFAP) in artificial plasma using SERS on NanoPADs, enabling high-sensitive biomarker detection of Alzheimer's disease.
+  * Duties included: 1) Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanopaper, optimizing the pattern parameters and saving time. 2) Detected glial fibrillary acidic protein (GFAP) in artificial plasma using SERS on NanoPADs, enabling high-sensitive biomarker detection of Alzheimer's disease.
   * Supervisor: Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
+ 
+* Metal-Organic Frameworks (MOFs)/heterojunction structure (06.2023-Current: Research Assistant)
+  * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
+  * Duties included: 1) Developed an _in-situ_ ZIF-67/Co(OH)2 heterojunction-based nanopaper plate that facilitates efficient photoinduced charge transfer to enhance the SERS signal. 2) Developed nanocellulose-paper-based analytical devices with both _in-situ_ ZIF-8/Zn(OH)2 and ZIF-67/Co(OH)2 structures for multiplex SERS detection of environmental pollutants.
+  * Supervisor: Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
+
+* High-performance capacitive deionization (CDI) technology material (06.2024-Current: Research Assistant)
+  * Xi'an Jiaotong-Liverpool University
+  * Duties included: 1) Developed a self-supporting composite of lithium cobalt manganese oxide (LCMO) and MXene electrodes in CDI technology, enabling efficient lithium extraction from salt lakes.
+  * Supervisor: [Dr. Meng Ding](https://scholar.xjtlu.edu.cn/en/persons/MengDing), Xi'an Jiaotong-Liverpool University
 
 Service ＆ Leadership
 ======
@@ -118,9 +128,9 @@ Skills
   * _Fabrication_: 3D printing, laser cutting
   * _Immunoassays_: Enzyme-linked immunosorbent assay (ELISA), Lateral flow assay (LFA)
   * _Molecular biology techniques_: Cell culture, Gel electrophoresis, qPCR
-  * _Chemical synthesis_: AuNPs, AgNPs
-  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [NMR](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance), [MS](https://en.wikipedia.org/wiki/Mass_spectrometry), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography), [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy), [Fluorescence spectroscopy](https://en.wikipedia.org/wiki/Fluorescence_spectroscopy), [Cyclic voltammetry](https://en.wikipedia.org/wiki/Cyclic_voltammetry)
-  * _Separation and analysis techniques_: [HPLC](https://en.wikipedia.org/wiki/High-performance_liquid_chromatography), [GC](https://en.wikipedia.org/wiki/Gas_chromatography), [TLC](https://en.wikipedia.org/wiki/Thin-layer_chromatography), [Flash column chromatography](https://en.wikipedia.org/wiki/Column_chromatography)
+  * _Chemical synthesis_: AuNPs, AgNPs, Mxene, LCMO
+  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [NMR](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance), [MS](https://en.wikipedia.org/wiki/Mass_spectrometry), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography)
+  * _Separation and analysis techniques_: [HPLC](https://en.wikipedia.org/wiki/High-performance_liquid_chromatography), [GC](https://en.wikipedia.org/wiki/Gas_chromatography), [TLC](https://en.wikipedia.org/wiki/Thin-layer_chromatography), EIS, [CDI](https://en.wikipedia.org/wiki/Capacitive_deionization), [Flash column chromatography](https://en.wikipedia.org/wiki/Column_chromatography), [Cyclic voltammetry](https://en.wikipedia.org/wiki/Cyclic_voltammetry)
 * Language:
   * Mandarin (Native)
   * English (English-only instruction)
