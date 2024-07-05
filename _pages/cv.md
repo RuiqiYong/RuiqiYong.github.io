@@ -39,11 +39,11 @@ Please refer to [Google Scholar](https://scholar.google.com/citations?user=XYBji
 
 Conference Participation
 ======
-* [Nanocellulose-Paper-Based Analytical Devices with MOFs/Heterojunction Structures for Multiplex SERS Detection](https://enderhangyuan.github.io/publication/20240506) (Poster-First author), 2024
+* [Nanocellulose-Paper-Based Analytical Devices with MOFs/Heterojunction Structures for Multiplex SERS Detection](https://ruiqiyong.github.io/publication/20240506) (Poster-First author), 2024
 
-* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://enderhangyuan.github.io/publication/202305101) (Poster-Co-first author), 2023
+* [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://ruiqiyong.github.io/publication/202305101) (Poster-Co-first author), 2023
 
-* [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples](https://enderhangyuan.github.io/publication/20230531) (Oral Presentation), 2023
+* [A Bio-inspired Lateral Flow Assay for Improving the Sensitivity of Low Volume Samples](https://ruiqiyong.github.io/publication/20230531) (Oral Presentation), 2023
 
 Honors
 ======
