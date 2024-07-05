@@ -59,7 +59,7 @@ National-level competitions:
 
 Provincial-level competitions:
 * The 3𝑟𝑑 Prize of the 8th "Internet+" Student Innovation and Entrepreneurship Competition (Jiangsu Province), 2022
-* The 3𝑟𝑑 Prize of 2022 [Changzhou "International Intelligent Manufacturing" Innovation and Entrepreneurship Competition Robotics and Intelligent Hardware Challenge](http://www.changzhou.gov.cn/ns_news/795165231605032), 2022
+* The 3𝑟𝑑 Prize of 2022 [Changzhou "International Intelligent Manufacturing" Innovation and Entrepreneurship Competition Robotics and Intelligent Hardware Challenge](https://mp.weixin.qq.com/s/u3E8eXHMsEi523YWLLsj2Q), 2022
 * The 3𝑟𝑑 Prize of 2022 [China-U.S. Young Maker Competition](https://www.eol.cn/html/lx/maker/index.shtml) Suzhou Division _(6/77)_, 2022
 * The Excellence Award and the Best Popularity Award of [Yangtze River Delta (YRD) Intellectual Property Innovation and Application Competition](http://www.xjtlu-ttc.com/ip-competition), 2022
 
