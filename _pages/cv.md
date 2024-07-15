@@ -15,6 +15,10 @@ Education
 * BSc in Applied Chemistry, Xi’an Jiaotong-Liverpool University, 2021-2025 (expected) 
 * BSc in Applied Chemistry, University of Liverpool, 2021-2025 (expected)
 
+Standardized Scores
+======
+* GRE General Test: 327 (Verbal: 157, 73rd Percentile; Quantitative: 170, 92nd Percentile) + 3.5 (Analytical Writing, 41st Percentile)
+
 Publications
 ======
 Peer-Reviewed Journal Papers:
