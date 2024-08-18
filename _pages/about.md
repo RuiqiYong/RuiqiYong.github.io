@@ -17,6 +17,7 @@ I'm seeking a Ph.D. position. I'm open to any opportunity!
 Research Interest
 =====
 * Microfluidics for point-of-care testing, including LFA, ELISA, and nanocellulose paper
+* Biomedical analysis device
 * Metal–Organic Framework (MOF)
 * 2D materials, including MXene
 * Desalination
