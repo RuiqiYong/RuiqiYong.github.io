@@ -16,9 +16,10 @@ I'm seeking a Ph.D. position. I'm open to any opportunity!
 
 Research Interest
 =====
-* Paper-based microfluidics, including LFA, ELISA, and nanocellulose paper
+* Microfluidics for point-of-care testing, including LFA, ELISA, and nanocellulose paper
 * Metal–Organic Framework (MOF)
-* MXene
+* 2D materials, including MXene
+* Desalination
 
 Education Experience
 =====
