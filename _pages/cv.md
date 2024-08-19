@@ -133,7 +133,7 @@ Skills
   * _Immunoassays_: Enzyme-linked immunosorbent assay (ELISA), Lateral flow assay (LFA)
   * _Molecular biology techniques_: Cell culture, Gel electrophoresis, qPCR
   * _Chemical synthesis_: AuNPs, AgNPs, Mxene, LCMO
-  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [NMR](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance), [MS](https://en.wikipedia.org/wiki/Mass_spectrometry), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography)
+  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [NMR](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance), [MS](https://en.wikipedia.org/wiki/Mass_spectrometry), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography), XPS
   * _Separation and analysis techniques_: [HPLC](https://en.wikipedia.org/wiki/High-performance_liquid_chromatography), [GC](https://en.wikipedia.org/wiki/Gas_chromatography), [TLC](https://en.wikipedia.org/wiki/Thin-layer_chromatography), EIS, [CDI](https://en.wikipedia.org/wiki/Capacitive_deionization), [Flash column chromatography](https://en.wikipedia.org/wiki/Column_chromatography), [Cyclic voltammetry](https://en.wikipedia.org/wiki/Cyclic_voltammetry)
 * Language:
   * Mandarin (Native)
