@@ -125,8 +125,8 @@ Skills
 ======
 * Computer Skills＆Software:
   * _Programming_: R
-  * _CAD/CAE_: SolidWorks, Cinema 4D, Rhinoceros 3D, AutoCAD, KeyShot
-  * _Graphic design_: ChemDraw, Adobe Illustrator, Adobe Premiere Pro, Adobe Photoshop
+  * _CAD/CAE_: SolidWorks, Cinema 4D, Rhinoceros 3D, AutoCAD
+  * _Design_: ChemDraw, Adobe Illustrator, Adobe Premiere Pro, Adobe Photoshop, KeyShot
   * _Data analysis_: Origin, MestReNova, Cytoscape
 * Experimental Skills:
   * _Fabrication_: 3D printing, laser cutting
