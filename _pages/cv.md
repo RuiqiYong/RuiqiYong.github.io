@@ -52,7 +52,7 @@ Conference Participation
 
 Honors
 ======
-* Outstanding Student (School-wide top 5%), XJTLU, 2024
+* Outstanding Student (School-wide top 5%), XJTLU, 2023 & 2024
 * Entrepreneurship Star (University-wide top 1%), XJTLU, 2023 & 2024
 * Excellent Student Cadre (University-wide top 1%), XJTLU, 2022 & 2023
 * PE Star (University-wide top 1%), XJTLU, 2022    
@@ -103,14 +103,14 @@ Service ＆ Leadership
   * XJTLU Cheerleading Club
   * Duties included: 1) Led and organized successful cheerleading activities on behalf of XJTLU.
 
-* 2022-2023 & 2023-2024:Entrepreneurship Star
+* 2022-2023 & 2023-2024: Entrepreneurship Star
   * XJTLU i-Star selection
   * Duties included: 1) Outstanding achievement in innovation and entrepreneurship, winning first place in the school competition for two consecutive years. 2) One of ten places in XJTLU.
   * [News 1](https://mp.weixin.qq.com/s/iyPLAfKzVgRNPapVv8u65g). Bilingual version.
   * [News 2](https://mp.weixin.qq.com/s/BmSW1Vp97E-suBTxmcwHpA). Bilingual version.
   * [News 3](https://mp.weixin.qq.com/s/DHjxM-LZK1d6xDiX8OLL-g). Bilingual version.
 
-* 2023-2024: Outstanding Student
+* 2023-2024 & 2024-2025: Outstanding Student
   * XJTLU
   * Duties included:1) Outstanding academic performance (5% of School of Science students).
 
