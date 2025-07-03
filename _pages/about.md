@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am Ruiqi Yong (雍睿琪)."
+title: "Welcome here! I am Ruiqi Yong (雍睿琪)."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
