@@ -10,9 +10,9 @@ redirect_from:
 
 Brief Introduction
 =====
-I'm pursuing my BSc degrees in [Applied Chemistry](https://www.xjtlu.edu.cn/en/study/undergraduate/applied-chemistry) at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en) and the [University of Liverpool (UoL)](https://www.liverpool.ac.uk) now, under the supervision of [Associate Professor Pengfei Song](https://scholar.xjtlu.edu.cn/en/persons/PengfeiSong) and [Assistant Professor Meng Ding](https://scholar.xjtlu.edu.cn/en/persons/MengDing).
+I obtained my BSc degrees in [Applied Chemistry](https://www.xjtlu.edu.cn/en/study/undergraduate/applied-chemistry) at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en) and the [University of Liverpool (UoL)](https://www.liverpool.ac.uk), under the supervision of [Associate Professor Pengfei Song](https://scholar.xjtlu.edu.cn/en/persons/PengfeiSong) and [Assistant Professor Meng Ding](https://scholar.xjtlu.edu.cn/en/persons/MengDing).
 
-I'm seeking a Ph.D. position. I'm open to any opportunity!
+I begin my doctoral studies in [Mechanical Engineering](https://engineering.msu.edu/about/departments/me) at [Michigan State University (MSU)](https://msu.edu/) in the fall of 2025, under the supervision of [Assistant Professor Bei Fan](https://engineering.msu.edu/faculty/Bei-Fan).
 
 Research Interest
 =====
