@@ -12,8 +12,9 @@ redirect_from:
 
 Education
 ======
-* BSc in Applied Chemistry, Xi’an Jiaotong-Liverpool University, 2021-2025 (expected) 
-* BSc in Applied Chemistry, University of Liverpool, 2021-2025 (expected)
+* Ph.D. in Mechanical Engineering, Michigan State University, 2025-2030 (Ph.D. student Now)
+* BSc in Applied Chemistry, Xi’an Jiaotong-Liverpool University (Honors), 2021-2025
+* BSc in Applied Chemistry, University of Liverpool (Honors), 2021-2025
 
 Standardized Scores
 ======
@@ -23,6 +24,8 @@ Standardized Scores
 Publications
 ======
 Peer-Reviewed Journal Papers:
+* [Centrifugation-Assisted Lateral Flow Assay Platform: Enhancing Bioassay Sensitivity with Active Flow Control](https://ruiqiyong.github.io/publication/20250522) (Feature article-Co-First author), 2025
+
 * [A SERS Nanocellulose-Paper-Based Analytical Device for Ultrasensitive Detection of Alzheimer's Disease](https://ruiqiyong.github.io/publication/20240304), 2024
 
 * [Microembossing: A Convenient Process for Fabricating Microchannels on Nanocellulose Paper-Based Microfluidics](https://ruiqiyong.github.io/publication/20231006), 2023
@@ -30,6 +33,8 @@ Peer-Reviewed Journal Papers:
 * [Deep Learning for Microfluidic-Assisted _Caenorhabditis elegans_ Multi-Parameter Identification Using YOLOv7](https://ruiqiyong.github.io/publication/20230629) , 2023
 
 * [Navigating the Uncertainty: the Impact of a Student-Centered Final Year Project Allocation Mechanism on Student Performance](https://ruiqiyong.github.io/publication/20240618) , 2024
+
+* [Facile Laser-Cutting Process for Nanocellulose-Paper-Based Microfluidic Microchannel Fabrication](https://ruiqiyong.github.io/publication/20250215), 2025
 
 * [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://ruiqiyong.github.io/publication/20240408) (Cover paper), 2024
 
